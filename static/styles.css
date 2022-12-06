@@ -48,7 +48,7 @@ table td {
   }
 
 
-h1 {
+/* h1 {
     padding: 1rem;
     background-color: black;
     color: white;
@@ -56,8 +56,14 @@ h1 {
     margin-left: auto;
     margin-right: auto;
 
-}
+} */
 
+
+.register
+{
+    border-radius: 3rem;
+    width: 7rem;
+}
 
 .background
 {

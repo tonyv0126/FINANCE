@@ -45,8 +45,11 @@ def after_request(response):
     response.headers["Pragma"] = "no-cache"
     return response
 
-
 @app.route("/")
+def landing():
+    return render_template("landing.html")
+
+@app.route("/home")
 @login_required
 def index():
     """Show portfolio of stocks"""
@@ -105,7 +108,7 @@ def confirmed():
     db.execute("INSERT INTO transactions (user_id, stock, price, quantity, time) VALUES (?,?,?,?, datetime('now','localtime'))", user_id, stock["symbol"], stock["price"], quantity )
 
 
-    return redirect("/")
+    return redirect("/home")
 
 
 
@@ -165,7 +168,7 @@ def login():
 
 
         # Redirect user to home page
-        return redirect("/")
+        return redirect("/home")
 
     # User reached route via GET (as by clicking a link or via redirect)
     else:
@@ -236,7 +239,7 @@ def register():
             session["user_id"] = rows[0]["id"]
             flash(f'You have successfully registered ')
 
-            return redirect("/")
+            return redirect("/home")
 
 
     return render_template("register.html")
@@ -306,7 +309,7 @@ def changepass():
             password = generate_password_hash(confirm)
             db.execute("UPDATE users SET hash = ? WHERE id = ?", password, user_id)
             flash('Your password has been updated')
-            return redirect("/")
+            return redirect("/home")
 
 
 
