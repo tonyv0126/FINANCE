@@ -1,0 +1,31 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    Log In
+{% endblock %}
+
+{% block main %}
+    
+    <form action="/login" method="post">
+        <div class="mb-3">
+            <input autocomplete="off" autofocus class="form-control mx-auto w-auto" id="username" name="username" placeholder="Username" type="text">
+        </div>
+        <div class="mb-3">
+            <input class="form-control mx-auto w-auto" id="password" name="password" placeholder="Password" type="password">
+        </div>
+        <button class="btn btn-primary" type="submit">Log In</button>
+    </form>
+
+    <div class="container">
+        <div class="row">
+          <div class="col-md-6 order-2 order-md-1 jumbotron text-left pt-sm-0 pt-md-5">
+            <h1 class="display-4">Investing Made Simple</h1>
+            <p class="lead">Demo application to buy and sell stocks, view your portfolio's performance over time, and view your transaction history. This application is for demonstration purposes only. No real financial transactions take place.</p>
+            <a class="btn btn-success btn-lg register" href="/register">Sign Up</a>
+          </div>
+          <div class="col-md-6 order-1 order-md-2 align-self-md-center">
+            <object type="image/svg+xml" data="/static/img/landing.svg" ></object>
+          </div>
+        </div>
+      </div>
+{% endblock %}

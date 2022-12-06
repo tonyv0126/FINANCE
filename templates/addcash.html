@@ -1,0 +1,25 @@
+{% extends "layout.html" %}
+
+{% block title %} Add Cash {% endblock %}
+
+{% block main %}
+
+<h1>  DEPOSIT CASH </h1><br>
+
+<form method="POST" action="\deposit">
+
+    <div class="row">
+        <div class="col-lg-5"></div>
+        <div class="col-lg-2">
+            <div class="input-group">
+                <input type="number" name="amount" min="10" class="form-control" autofocus placeholder="Amount">
+                <input type="submit" value="Deposit" class="btn btn-primary" >
+            </div><!-- /input-group -->
+        </div><!-- /.col-lg-4 -->
+        <div class="col-lg-5"></div>
+    </div><!-- /.row -->
+
+</form>
+
+
+{% endblock %}

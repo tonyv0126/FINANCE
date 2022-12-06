@@ -1,0 +1,79 @@
+{% extends "layout.html" %}
+
+{% block title %} Confirmation {% endblock %}
+
+{% block main %}
+    <h2>
+
+            ORDER CONFIRMATION
+    </h2>
+
+    <h3 style="padding: 1 rem; color: Chartreuse;">
+        Type: {{ type }}
+    </h3>
+
+
+    <table style="width: 50%; margin-top: 2rem;" class="table table-success table-striped" >
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Symbol</th>
+                <th>Price</th>
+                <th>Quantity</th>
+                <th>Total</th>
+
+
+
+            </tr>
+
+        </thead>
+
+        <tbody>
+
+            <tr>
+
+                <td> {{ stock["name"] }} </td>
+                <td> {{stock["symbol"]}}  </td>
+                <td> {{stock["price"]}}  </td>
+                <td> {{quantity}}  </td>
+                <td> {{total}}  </td>
+
+            </tr>
+
+            <tr>
+                <td>  </td>
+                <td>  </td>
+                <td>  </td>
+                <th> Cash </th>
+                <td> {{cash}}  </td>
+            </tr>
+
+
+            <tr>
+                <td>  </td>
+                <td>  </td>
+                <td>  </td>
+                <th> Cash Balance </th>
+                <td style="font-weight: bold;"> {{balance}}  </td>
+            </tr>
+
+        </tbody>
+
+
+    </table>
+
+    <div style="display: flex; margin-left: 50% ;">
+    <form action="/confirm" method="POST"  >
+        <input type="submit" value="CONFIRM" style="margin-right: 1rem;" class="btn btn-primary">
+    </form>
+    <form >
+        <input type="submit" value="CANCEL" class="btn btn-primary">
+    </form>
+    </div>
+
+
+
+
+
+
+{% endblock %}
