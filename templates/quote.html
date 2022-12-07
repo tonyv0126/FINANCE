@@ -3,12 +3,25 @@
 {% block title %} Quote {% endblock %}
 
 {% block main %}
-    <form action="/quote" method="POST">
-        <input name="symbol" type="text" autofocus autocomplete="off" placeholder="Symbol" class="form-control mx-auto w-auto"><br>
-        <button class="btn btn-primary"> Quote </button>
-    </form>
 
-    <table style="width: 50%; margin-top: 2rem;" class="table table-success table-striped" >
+<div class="container">
+    <div  class="row justify-content-center">
+        <div class="col-6">
+            <form action="/quote" method="POST" >
+
+            <input name="symbol" type="text" autofocus autocomplete="off" placeholder="Symbol" class="form-control-lg w-auto mb-2"><br>
+            <button class="btn btn-info text-white btn-lg "> Quote </button>  
+            </form>
+        </div>
+
+    </div>
+
+     
+
+</div>
+   
+
+    <table style="width: 50%; margin-top: 2rem;" class=" table table-info table-striped" >
         <thead>
             <tr>
                 <th>Name</th>

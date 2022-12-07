@@ -4,14 +4,14 @@
    id="freepik_stories-finance"
    viewBox="0 0 500 500"
    version="1.1"
-   sodipodi:docname="animated-finance.svg"
+   sodipodi:docname="finance.svg"
    inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
-     id="namedview1029"
+     id="namedview427"
      pagecolor="#ffffff"
      bordercolor="#000000"
      borderopacity="0.25"
@@ -20,17 +20,36 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
-     inkscape:zoom="1.628"
-     inkscape:cx="145.88452"
-     inkscape:cy="250.30713"
-     inkscape:window-width="1920"
-     inkscape:window-height="1001"
-     inkscape:window-x="-9"
+     inkscape:zoom="3.256"
+     inkscape:cx="117.93612"
+     inkscape:cy="268.58108"
+     inkscape:window-width="2400"
+     inkscape:window-height="1271"
+     inkscape:window-x="4791"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
-     inkscape:current-layer="freepik_stories-finance" />
+     inkscape:current-layer="freepik--Character--inject-3" />
   <style
-     id="style604">svg#freepik_stories-finance:not(.animated) .animable {opacity: 0;}svg#freepik_stories-finance.animated #el9u40xrmpimf {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 0s;}svg#freepik_stories-finance.animated #elh5xnr4p0aah {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 0.0375s;opacity: 0}svg#freepik_stories-finance.animated #elsd5unkhp9fp {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 0.075s;opacity: 0}svg#freepik_stories-finance.animated #elsnmcn668ff {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 0.11249999999999999s;opacity: 0}svg#freepik_stories-finance.animated #elcmo92x3m84 {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 0.15s;opacity: 0}svg#freepik_stories-finance.animated #elfrb6fhwa0w9 {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 0.1875s;opacity: 0}svg#freepik_stories-finance.animated #el4kaorjg4i33 {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 0.22499999999999998s;opacity: 0}svg#freepik_stories-finance.animated #el2lhh3o1vg29 {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 0.2625s;opacity: 0}svg#freepik_stories-finance.animated #el0s43jdigx3r {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 0.3s;opacity: 0}svg#freepik_stories-finance.animated #elpdfewtk13n {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 0.33749999999999997s;opacity: 0}svg#freepik_stories-finance.animated #elbiiloowrugj {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 0.375s;opacity: 0}svg#freepik_stories-finance.animated #elqo4fphwp6j {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 0.4125s;opacity: 0}svg#freepik_stories-finance.animated #el2y7uuu3v6gh {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 0.44999999999999996s;opacity: 0}svg#freepik_stories-finance.animated #ell0krr95goe {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 0.4875s;opacity: 0}svg#freepik_stories-finance.animated #eljujd2iynvgq {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 0.525s;opacity: 0}svg#freepik_stories-finance.animated #ellanu5w53dtn {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 0.5625s;opacity: 0}svg#freepik_stories-finance.animated #elyvl9wr3ekq {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 0.6s;opacity: 0}svg#freepik_stories-finance.animated #eltfce0sjl9n {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 0.6375s;opacity: 0}svg#freepik_stories-finance.animated #elwul0ytr3vhk {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 0.6749999999999999s;opacity: 0}svg#freepik_stories-finance.animated #ele4td0szfg2l {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 0.7125s;opacity: 0}svg#freepik_stories-finance.animated #elugetx8nsm3c {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 0.75s;opacity: 0}svg#freepik_stories-finance.animated #elov4b8cmlyu {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 0.7875s;opacity: 0}svg#freepik_stories-finance.animated #el1cfua68s0kw {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 0.825s;opacity: 0}svg#freepik_stories-finance.animated #elm7daw14cyqi {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 0.8624999999999999s;opacity: 0}svg#freepik_stories-finance.animated #el7dx5121bscg {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 0.8999999999999999s;opacity: 0}svg#freepik_stories-finance.animated #ellcldbo0xlea {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 0.9375s;opacity: 0}svg#freepik_stories-finance.animated #el66mbpt72wfe {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 0.975s;opacity: 0}svg#freepik_stories-finance.animated #elno5xndumed8 {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 1.0125s;opacity: 0}svg#freepik_stories-finance.animated #el7ywj4d7ascf {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 1.05s;opacity: 0}svg#freepik_stories-finance.animated #el80yoio8p63d {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 1.0875s;opacity: 0}svg#freepik_stories-finance.animated #el8w1no3awe64 {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 1.125s;opacity: 0}svg#freepik_stories-finance.animated #elehdedoqh15q {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 1.1624999999999999s;opacity: 0}svg#freepik_stories-finance.animated #el8g4jine91o6 {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 1.2s;opacity: 0}svg#freepik_stories-finance.animated #eli58kgzfvtn {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 1.2375s;opacity: 0}svg#freepik_stories-finance.animated #el1d4n5k2vls2 {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 1.275s;opacity: 0}svg#freepik_stories-finance.animated #elzmbxb8jt4pc {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 1.3125s;opacity: 0}svg#freepik_stories-finance.animated #el798z8byajjc {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 1.3499999999999999s;opacity: 0}svg#freepik_stories-finance.animated #el2qk4u8py6kn {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 1.3875s;opacity: 0}svg#freepik_stories-finance.animated #elz6w0f2vr5w {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 1.425s;opacity: 0}svg#freepik_stories-finance.animated #elubcdp3xes1h {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 1.4625s;opacity: 0}svg#freepik_stories-finance.animated #elv1hn1zjyky {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 1.5s;opacity: 0}svg#freepik_stories-finance.animated #el2rbo05c0s7g {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 1.5374999999999999s;opacity: 0}svg#freepik_stories-finance.animated #elivsy59o8bu8 {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 1.575s;opacity: 0}svg#freepik_stories-finance.animated #elnqis4jskcs {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 1.6125s;opacity: 0}svg#freepik_stories-finance.animated #el02ivxdfy1gv4 {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 1.65s;opacity: 0}svg#freepik_stories-finance.animated #ele75aimweje {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 1.6875s;opacity: 0}svg#freepik_stories-finance.animated #elniixxzt75a {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 1.7249999999999999s;opacity: 0}svg#freepik_stories-finance.animated #els3xnkrzjzx {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 1.7625s;opacity: 0}svg#freepik_stories-finance.animated #el7tk4txhgls6 {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 1.7999999999999998s;opacity: 0}svg#freepik_stories-finance.animated #elnok0vhblra {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 1.8375s;opacity: 0}svg#freepik_stories-finance.animated #elb2llep1sjh5 {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 1.875s;opacity: 0}svg#freepik_stories-finance.animated #eltk9fwj6wsjn {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 1.9124999999999999s;opacity: 0}svg#freepik_stories-finance.animated #ely21jmm62h4 {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 1.95s;opacity: 0}svg#freepik_stories-finance.animated #el0aipsxrboq7 {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 1.9874999999999998s;opacity: 0}svg#freepik_stories-finance.animated #el09zweh4old73 {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 2.025s;opacity: 0}svg#freepik_stories-finance.animated #el8opncknbkbm {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 2.0625s;opacity: 0}svg#freepik_stories-finance.animated #elwjg6wuy8oa {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 2.1s;opacity: 0}svg#freepik_stories-finance.animated #elybnpu0ylt9s {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 2.1374999999999997s;opacity: 0}svg#freepik_stories-finance.animated #elb47j2hvg3x {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 2.175s;opacity: 0}svg#freepik_stories-finance.animated #elj0d8lufmytl {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 2.2125s;opacity: 0}svg#freepik_stories-finance.animated #elzc4rjvmjt {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 2.25s;opacity: 0}svg#freepik_stories-finance.animated #elu7ul9v7n0ib {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 2.2875s;opacity: 0}svg#freepik_stories-finance.animated #el4qofhtum0mx {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 2.3249999999999997s;opacity: 0}svg#freepik_stories-finance.animated #elvte8h1n45j8 {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 2.3625s;opacity: 0}svg#freepik_stories-finance.animated #elefo0qozzyop {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 2.4s;opacity: 0}svg#freepik_stories-finance.animated #elszm551p7of {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 2.4375s;opacity: 0}svg#freepik_stories-finance.animated #elio9839guz0g {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 2.475s;opacity: 0}svg#freepik_stories-finance.animated #elojymag8uonk {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 2.5124999999999997s;opacity: 0}svg#freepik_stories-finance.animated #elztqmtcrr1kc {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 2.55s;opacity: 0}svg#freepik_stories-finance.animated #el4744y6mal6j {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 2.5875s;opacity: 0}svg#freepik_stories-finance.animated #eld7u0hlgyw9 {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 2.625s;opacity: 0}svg#freepik_stories-finance.animated #elriiid5myvng {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 2.6625s;opacity: 0}svg#freepik_stories-finance.animated #el6tla4gw0ca9 {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 2.6999999999999997s;opacity: 0}svg#freepik_stories-finance.animated #elfdmirv5iaf4 {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 2.7375s;opacity: 0}svg#freepik_stories-finance.animated #elb5nm4jubaf4 {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 2.775s;opacity: 0}svg#freepik_stories-finance.animated #elxuubzc0vnxm {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 2.8125s;opacity: 0}svg#freepik_stories-finance.animated #el602yrqd0qin {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 2.85s;opacity: 0}svg#freepik_stories-finance.animated #elasnxfu4uhod {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 2.8874999999999997s;opacity: 0}svg#freepik_stories-finance.animated #elgpg5yuqd3bm {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 2.925s;opacity: 0}svg#freepik_stories-finance.animated #el7pq3yvr2uod {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 2.9625s;opacity: 0}svg#freepik_stories-finance.animated #elxla7kwojuxm {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 3s;opacity: 0}svg#freepik_stories-finance.animated #elih8oo8rrlm {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 3.0375s;opacity: 0}svg#freepik_stories-finance.animated #elyzprog3scel {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 3.0749999999999997s;opacity: 0}svg#freepik_stories-finance.animated #el5d1oushy8a {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 3.1125s;opacity: 0}svg#freepik_stories-finance.animated #el8zk2xgnjtt {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 3.15s;opacity: 0}svg#freepik_stories-finance.animated #el9q8ntuo75m {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 3.1875s;opacity: 0}svg#freepik_stories-finance.animated #elov384vx7h9 {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 3.225s;opacity: 0}svg#freepik_stories-finance.animated #elpsdohotutb8 {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 3.2624999999999997s;opacity: 0}svg#freepik_stories-finance.animated #elz031wfxhqd9 {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 3.3s;opacity: 0}svg#freepik_stories-finance.animated #elnz490uxrl1i {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 3.3375s;opacity: 0}svg#freepik_stories-finance.animated #elo0tsc4gywi {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 3.375s;opacity: 0}svg#freepik_stories-finance.animated #elcfs5ekvuu6 {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 3.4125s;opacity: 0}svg#freepik_stories-finance.animated #el28gq0jm13hfi {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 3.4499999999999997s;opacity: 0}svg#freepik_stories-finance.animated #elb81wfn0l4ik {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 3.4875s;opacity: 0}svg#freepik_stories-finance.animated #elu6thr2vq7eo {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 3.525s;opacity: 0}svg#freepik_stories-finance.animated #el63hlrt6cbm2 {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 3.5625s;opacity: 0}svg#freepik_stories-finance.animated #freepik--Coins--inject-3 {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 0s;}svg#freepik_stories-finance.animated #freepik--Growth--inject-3 {animation: 1s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) fadeIn,1.5s Infinite  linear floating;animation-delay: 0s,1s;}svg#freepik_stories-finance.animated #freepik--Chart--inject-3 {animation: 1s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) fadeIn;animation-delay: 3s;opacity: 0}            @keyframes slideDown {                0% {                    opacity: 0;                    transform: translateY(-30px);                }                100% {                    opacity: 1;                    transform: translateY(0);                }            }                    @keyframes fadeIn {                0% {                    opacity: 0;                }                100% {                    opacity: 1;                }            }                    @keyframes floating {                0% {                    opacity: 1;                    transform: translateY(0px);                }                50% {                    transform: translateY(-10px);                }                100% {                    opacity: 1;                    transform: translateY(0px);                }            }        </style>
+     id="style2">svg#freepik_stories-finance:not(.animated) .animable {opacity: 0;}svg#freepik_stories-finance.animated #el9u40xrmpimf {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 0s;}svg#freepik_stories-finance.animated #elh5xnr4p0aah {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 0.0375s;opacity: 0}svg#freepik_stories-finance.animated #elsd5unkhp9fp {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 0.075s;opacity: 0}svg#freepik_stories-finance.animated #elsnmcn668ff {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 0.11249999999999999s;opacity: 0}svg#freepik_stories-finance.animated #elcmo92x3m84 {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 0.15s;opacity: 0}svg#freepik_stories-finance.animated #elfrb6fhwa0w9 {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 0.1875s;opacity: 0}svg#freepik_stories-finance.animated #el4kaorjg4i33 {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 0.22499999999999998s;opacity: 0}svg#freepik_stories-finance.animated #el2lhh3o1vg29 {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 0.2625s;opacity: 0}svg#freepik_stories-finance.animated #el0s43jdigx3r {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 0.3s;opacity: 0}svg#freepik_stories-finance.animated #elpdfewtk13n {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 0.33749999999999997s;opacity: 0}svg#freepik_stories-finance.animated #elbiiloowrugj {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 0.375s;opacity: 0}svg#freepik_stories-finance.animated #elqo4fphwp6j {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 0.4125s;opacity: 0}svg#freepik_stories-finance.animated #el2y7uuu3v6gh {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 0.44999999999999996s;opacity: 0}svg#freepik_stories-finance.animated #ell0krr95goe {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 0.4875s;opacity: 0}svg#freepik_stories-finance.animated #eljujd2iynvgq {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 0.525s;opacity: 0}svg#freepik_stories-finance.animated #ellanu5w53dtn {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 0.5625s;opacity: 0}svg#freepik_stories-finance.animated #elyvl9wr3ekq {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 0.6s;opacity: 0}svg#freepik_stories-finance.animated #eltfce0sjl9n {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 0.6375s;opacity: 0}svg#freepik_stories-finance.animated #elwul0ytr3vhk {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 0.6749999999999999s;opacity: 0}svg#freepik_stories-finance.animated #ele4td0szfg2l {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 0.7125s;opacity: 0}svg#freepik_stories-finance.animated #elugetx8nsm3c {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 0.75s;opacity: 0}svg#freepik_stories-finance.animated #elov4b8cmlyu {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 0.7875s;opacity: 0}svg#freepik_stories-finance.animated #el1cfua68s0kw {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 0.825s;opacity: 0}svg#freepik_stories-finance.animated #elm7daw14cyqi {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 0.8624999999999999s;opacity: 0}svg#freepik_stories-finance.animated #el7dx5121bscg {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 0.8999999999999999s;opacity: 0}svg#freepik_stories-finance.animated #ellcldbo0xlea {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 0.9375s;opacity: 0}svg#freepik_stories-finance.animated #el66mbpt72wfe {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 0.975s;opacity: 0}svg#freepik_stories-finance.animated #elno5xndumed8 {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 1.0125s;opacity: 0}svg#freepik_stories-finance.animated #el7ywj4d7ascf {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 1.05s;opacity: 0}svg#freepik_stories-finance.animated #el80yoio8p63d {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 1.0875s;opacity: 0}svg#freepik_stories-finance.animated #el8w1no3awe64 {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 1.125s;opacity: 0}svg#freepik_stories-finance.animated #elehdedoqh15q {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 1.1624999999999999s;opacity: 0}svg#freepik_stories-finance.animated #el8g4jine91o6 {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 1.2s;opacity: 0}svg#freepik_stories-finance.animated #eli58kgzfvtn {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 1.2375s;opacity: 0}svg#freepik_stories-finance.animated #el1d4n5k2vls2 {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 1.275s;opacity: 0}svg#freepik_stories-finance.animated #elzmbxb8jt4pc {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 1.3125s;opacity: 0}svg#freepik_stories-finance.animated #el798z8byajjc {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 1.3499999999999999s;opacity: 0}svg#freepik_stories-finance.animated #el2qk4u8py6kn {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 1.3875s;opacity: 0}svg#freepik_stories-finance.animated #elz6w0f2vr5w {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 1.425s;opacity: 0}svg#freepik_stories-finance.animated #elubcdp3xes1h {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 1.4625s;opacity: 0}svg#freepik_stories-finance.animated #elv1hn1zjyky {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 1.5s;opacity: 0}svg#freepik_stories-finance.animated #el2rbo05c0s7g {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 1.5374999999999999s;opacity: 0}svg#freepik_stories-finance.animated #elivsy59o8bu8 {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 1.575s;opacity: 0}svg#freepik_stories-finance.animated #elnqis4jskcs {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 1.6125s;opacity: 0}svg#freepik_stories-finance.animated #el02ivxdfy1gv4 {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 1.65s;opacity: 0}svg#freepik_stories-finance.animated #ele75aimweje {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 1.6875s;opacity: 0}svg#freepik_stories-finance.animated #elniixxzt75a {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 1.7249999999999999s;opacity: 0}svg#freepik_stories-finance.animated #els3xnkrzjzx {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 1.7625s;opacity: 0}svg#freepik_stories-finance.animated #el7tk4txhgls6 {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 1.7999999999999998s;opacity: 0}svg#freepik_stories-finance.animated #elnok0vhblra {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 1.8375s;opacity: 0}svg#freepik_stories-finance.animated #elb2llep1sjh5 {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 1.875s;opacity: 0}svg#freepik_stories-finance.animated #eltk9fwj6wsjn {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 1.9124999999999999s;opacity: 0}svg#freepik_stories-finance.animated #ely21jmm62h4 {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 1.95s;opacity: 0}svg#freepik_stories-finance.animated #el0aipsxrboq7 {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 1.9874999999999998s;opacity: 0}svg#freepik_stories-finance.animated #el09zweh4old73 {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 2.025s;opacity: 0}svg#freepik_stories-finance.animated #el8opncknbkbm {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 2.0625s;opacity: 0}svg#freepik_stories-finance.animated #elwjg6wuy8oa {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 2.1s;opacity: 0}svg#freepik_stories-finance.animated #elybnpu0ylt9s {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 2.1374999999999997s;opacity: 0}svg#freepik_stories-finance.animated #elb47j2hvg3x {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 2.175s;opacity: 0}svg#freepik_stories-finance.animated #elj0d8lufmytl {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 2.2125s;opacity: 0}svg#freepik_stories-finance.animated #elzc4rjvmjt {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 2.25s;opacity: 0}svg#freepik_stories-finance.animated #elu7ul9v7n0ib {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 2.2875s;opacity: 0}svg#freepik_stories-finance.animated #el4qofhtum0mx {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 2.3249999999999997s;opacity: 0}svg#freepik_stories-finance.animated #elvte8h1n45j8 {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 2.3625s;opacity: 0}svg#freepik_stories-finance.animated #elefo0qozzyop {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 2.4s;opacity: 0}svg#freepik_stories-finance.animated #elszm551p7of {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 2.4375s;opacity: 0}svg#freepik_stories-finance.animated #elio9839guz0g {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 2.475s;opacity: 0}svg#freepik_stories-finance.animated #elojymag8uonk {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 2.5124999999999997s;opacity: 0}svg#freepik_stories-finance.animated #elztqmtcrr1kc {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 2.55s;opacity: 0}svg#freepik_stories-finance.animated #el4744y6mal6j {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 2.5875s;opacity: 0}svg#freepik_stories-finance.animated #eld7u0hlgyw9 {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 2.625s;opacity: 0}svg#freepik_stories-finance.animated #elriiid5myvng {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 2.6625s;opacity: 0}svg#freepik_stories-finance.animated #el6tla4gw0ca9 {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 2.6999999999999997s;opacity: 0}svg#freepik_stories-finance.animated #elfdmirv5iaf4 {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 2.7375s;opacity: 0}svg#freepik_stories-finance.animated #elb5nm4jubaf4 {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 2.775s;opacity: 0}svg#freepik_stories-finance.animated #elxuubzc0vnxm {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 2.8125s;opacity: 0}svg#freepik_stories-finance.animated #el602yrqd0qin {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 2.85s;opacity: 0}svg#freepik_stories-finance.animated #elasnxfu4uhod {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 2.8874999999999997s;opacity: 0}svg#freepik_stories-finance.animated #elgpg5yuqd3bm {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 2.925s;opacity: 0}svg#freepik_stories-finance.animated #el7pq3yvr2uod {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 2.9625s;opacity: 0}svg#freepik_stories-finance.animated #elxla7kwojuxm {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 3s;opacity: 0}svg#freepik_stories-finance.animated #elih8oo8rrlm {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 3.0375s;opacity: 0}svg#freepik_stories-finance.animated #elyzprog3scel {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 3.0749999999999997s;opacity: 0}svg#freepik_stories-finance.animated #el5d1oushy8a {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 3.1125s;opacity: 0}svg#freepik_stories-finance.animated #el8zk2xgnjtt {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 3.15s;opacity: 0}svg#freepik_stories-finance.animated #el9q8ntuo75m {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 3.1875s;opacity: 0}svg#freepik_stories-finance.animated #elov384vx7h9 {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 3.225s;opacity: 0}svg#freepik_stories-finance.animated #elpsdohotutb8 {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 3.2624999999999997s;opacity: 0}svg#freepik_stories-finance.animated #elz031wfxhqd9 {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 3.3s;opacity: 0}svg#freepik_stories-finance.animated #elnz490uxrl1i {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 3.3375s;opacity: 0}svg#freepik_stories-finance.animated #elo0tsc4gywi {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 3.375s;opacity: 0}svg#freepik_stories-finance.animated #elcfs5ekvuu6 {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 3.4125s;opacity: 0}svg#freepik_stories-finance.animated #el28gq0jm13hfi {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 3.4499999999999997s;opacity: 0}svg#freepik_stories-finance.animated #elb81wfn0l4ik {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 3.4875s;opacity: 0}svg#freepik_stories-finance.animated #elu6thr2vq7eo {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 3.525s;opacity: 0}svg#freepik_stories-finance.animated #el63hlrt6cbm2 {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 3.5625s;opacity: 0}svg#freepik_stories-finance.animated #freepik--Coins--inject-3 {animation: 3.6s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideDown;animation-delay: 0s;}svg#freepik_stories-finance.animated #freepik--Growth--inject-3 {animation: 1s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) fadeIn,1.5s Infinite  linear floating;animation-delay: 0s,1s;}svg#freepik_stories-finance.animated #freepik--Chart--inject-3 {animation: 1s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) fadeIn;animation-delay: 3s;opacity: 0}            @keyframes slideDown {                0% {                    opacity: 0;                    transform: translateY(-30px);                }                100% {                    opacity: 1;                    transform: translateY(0);                }            }                    @keyframes fadeIn {                0% {                    opacity: 0;                }                100% {                    opacity: 1;                }            }                    @keyframes floating {                0% {                    opacity: 1;                    transform: translateY(0px);                }                50% {                    transform: translateY(-10px);                }                100% {                    opacity: 1;                    transform: translateY(0px);                }            }        </style>
+  <g
+     id="freepik--background-simple--inject-3"
+     class="animable"
+     style="transform-origin:252.578px 241.147px;fill:#b0ffff;fill-opacity:1">
+    <path
+       d="M97.91,167.36C56.83,258.91,250.11,224,266.55,249.22c24.95,38.23-46.9,76.83-20.57,117.83,37,57.68,97.76,2.95,119.44-18.36,21.9-21.52,66.95-77.47,38.28-126.29-43.79-74.57-94.12-22.38-139.33-52.06-21.32-14,1.25-46.56-31.67-69.26C175.27,61.47,112.59,134.65,97.91,167.36Z"
+       style="fill:#b0ffff;transform-origin:252.578px 241.147px;fill-opacity:1"
+       id="elekuj4a7fo6"
+       class="animable" />
+    <g
+       id="elqwrql5j2n7"
+       style="fill:#b0ffff;fill-opacity:1">
+      <path
+         d="M97.91,167.36C56.83,258.91,250.11,224,266.55,249.22c24.95,38.23-46.9,76.83-20.57,117.83,37,57.68,97.76,2.95,119.44-18.36,21.9-21.52,66.95-77.47,38.28-126.29-43.79-74.57-94.12-22.38-139.33-52.06-21.32-14,1.25-46.56-31.67-69.26C175.27,61.47,112.59,134.65,97.91,167.36Z"
+         style="fill:#b0ffff;opacity:0.9;transform-origin:252.578px 241.147px;fill-opacity:1"
+         class="animable"
+         id="path5" />
+    </g>
+  </g>
   <g
      id="freepik--Shadow--inject-3"
      class="animable"
@@ -47,1088 +66,1182 @@
   <g
      id="freepik--Coins--inject-3"
      class="animable animator-active"
-     transform="translate(-9.2137592,-212.53071)">
+     style="transform-origin:138.9px 339.025px;fill:#00ccff;fill-opacity:1">
     <rect
-       x="93.150002"
-       y="394.45999"
-       width="98.190002"
+       x="93.15"
+       y="394.46"
+       width="98.19"
        height="18.48"
-       style="fill:#27ae60"
+       style="fill:#00ccff;transform-origin:142.245px 403.7px;fill-opacity:1"
        id="el9u40xrmpimf"
        class="animable" />
     <g
-       id="elh5xnr4p0aah">
+       id="elh5xnr4p0aah"
+       style="fill:#00ccff;fill-opacity:1">
       <rect
-         x="93.150002"
-         y="394.45999"
-         width="98.190002"
-         height="2.0999999"
-         style="opacity:0.2"
+         x="93.15"
+         y="394.46"
+         width="98.19"
+         height="2.1"
+         style="opacity:0.2;transform-origin:142.245px 395.51px;fill:#00ccff;fill-opacity:1"
          class="animable"
-         id="rect614" />
+         id="rect12" />
     </g>
     <g
-       id="elsd5unkhp9fp">
+       id="elsd5unkhp9fp"
+       style="fill:#00ccff;fill-opacity:1">
       <rect
          x="100.34"
-         y="394.45999"
-         width="3.8699999"
+         y="394.46"
+         width="3.87"
          height="18.48"
-         style="opacity:0.2"
+         style="opacity:0.2;transform-origin:102.275px 403.7px;fill:#00ccff;fill-opacity:1"
          class="animable"
-         id="rect617" />
+         id="rect15" />
     </g>
     <g
-       id="elsnmcn668ff">
+       id="elsnmcn668ff"
+       style="fill:#00ccff;fill-opacity:1">
       <rect
          x="109.22"
-         y="394.45999"
-         width="3.8699999"
+         y="394.46"
+         width="3.87"
          height="18.48"
-         style="opacity:0.2"
+         style="opacity:0.2;transform-origin:111.155px 403.7px;fill:#00ccff;fill-opacity:1"
          class="animable"
-         id="rect620" />
+         id="rect18" />
     </g>
     <g
-       id="elcmo92x3m84">
+       id="elcmo92x3m84"
+       style="fill:#00ccff;fill-opacity:1">
       <rect
          x="118.11"
-         y="394.45999"
-         width="3.8699999"
+         y="394.46"
+         width="3.87"
          height="18.48"
-         style="opacity:0.2"
+         style="opacity:0.2;transform-origin:120.045px 403.7px;fill:#00ccff;fill-opacity:1"
          class="animable"
-         id="rect623" />
+         id="rect21" />
     </g>
     <g
-       id="elfrb6fhwa0w9">
+       id="elfrb6fhwa0w9"
+       style="fill:#00ccff;fill-opacity:1">
       <rect
          x="126.99"
-         y="394.45999"
-         width="3.8699999"
+         y="394.46"
+         width="3.87"
          height="18.48"
-         style="opacity:0.2"
+         style="opacity:0.2;transform-origin:128.925px 403.7px;fill:#00ccff;fill-opacity:1"
          class="animable"
-         id="rect626" />
+         id="rect24" />
     </g>
     <g
-       id="el4kaorjg4i33">
+       id="el4kaorjg4i33"
+       style="fill:#00ccff;fill-opacity:1">
       <rect
          x="135.87"
-         y="394.45999"
-         width="3.8699999"
+         y="394.46"
+         width="3.87"
          height="18.48"
-         style="opacity:0.2"
+         style="opacity:0.2;transform-origin:137.805px 403.7px;fill:#00ccff;fill-opacity:1"
          class="animable"
-         id="rect629" />
+         id="rect27" />
     </g>
     <g
-       id="el2lhh3o1vg29">
+       id="el2lhh3o1vg29"
+       style="fill:#00ccff;fill-opacity:1">
       <rect
-         x="144.75999"
-         y="394.45999"
-         width="3.8699999"
+         x="144.76"
+         y="394.46"
+         width="3.87"
          height="18.48"
-         style="opacity:0.2"
+         style="opacity:0.2;transform-origin:146.695px 403.7px;fill:#00ccff;fill-opacity:1"
          class="animable"
-         id="rect632" />
+         id="rect30" />
     </g>
     <g
-       id="el0s43jdigx3r">
+       id="el0s43jdigx3r"
+       style="fill:#00ccff;fill-opacity:1">
       <rect
          x="153.64"
-         y="394.45999"
-         width="3.8699999"
+         y="394.46"
+         width="3.87"
          height="18.48"
-         style="opacity:0.2"
+         style="opacity:0.2;transform-origin:155.575px 403.7px;fill:#00ccff;fill-opacity:1"
          class="animable"
-         id="rect635" />
+         id="rect33" />
     </g>
     <g
-       id="elpdfewtk13n">
+       id="elpdfewtk13n"
+       style="fill:#00ccff;fill-opacity:1">
       <rect
          x="162.52"
-         y="394.45999"
-         width="3.8699999"
+         y="394.46"
+         width="3.87"
          height="18.48"
-         style="opacity:0.2"
+         style="opacity:0.2;transform-origin:164.455px 403.7px;fill:#00ccff;fill-opacity:1"
          class="animable"
-         id="rect638" />
+         id="rect36" />
     </g>
     <g
-       id="elbiiloowrugj">
+       id="elbiiloowrugj"
+       style="fill:#00ccff;fill-opacity:1">
       <rect
          x="171.41"
-         y="394.45999"
-         width="3.8699999"
+         y="394.46"
+         width="3.87"
          height="18.48"
-         style="opacity:0.2"
+         style="opacity:0.2;transform-origin:173.345px 403.7px;fill:#00ccff;fill-opacity:1"
          class="animable"
-         id="rect641" />
+         id="rect39" />
     </g>
     <g
-       id="elqo4fphwp6j">
+       id="elqo4fphwp6j"
+       style="fill:#00ccff;fill-opacity:1">
       <rect
-         x="180.28999"
-         y="394.45999"
-         width="3.8699999"
+         x="180.29"
+         y="394.46"
+         width="3.87"
          height="18.48"
-         style="opacity:0.2"
+         style="opacity:0.2;transform-origin:182.225px 403.7px;fill:#00ccff;fill-opacity:1"
          class="animable"
-         id="rect644" />
+         id="rect42" />
     </g>
     <rect
-       x="89.160004"
-       y="375.98001"
-       width="98.190002"
+       x="89.16"
+       y="375.98"
+       width="98.19"
        height="18.48"
-       style="fill:#27ae60"
+       style="fill:#00ccff;transform-origin:138.255px 385.22px;fill-opacity:1"
        id="el2y7uuu3v6gh"
        class="animable" />
     <g
-       id="ell0krr95goe">
+       id="ell0krr95goe"
+       style="fill:#00ccff;fill-opacity:1">
       <rect
-         x="89.160004"
-         y="375.98001"
-         width="98.190002"
-         height="2.0999999"
-         style="opacity:0.2"
+         x="89.16"
+         y="375.98"
+         width="98.19"
+         height="2.1"
+         style="opacity:0.2;transform-origin:138.255px 377.03px;fill:#00ccff;fill-opacity:1"
          class="animable"
-         id="rect648" />
+         id="rect46" />
     </g>
     <g
-       id="eljujd2iynvgq">
+       id="eljujd2iynvgq"
+       style="fill:#00ccff;fill-opacity:1">
       <rect
-         x="96.339996"
-         y="375.98001"
-         width="3.8699999"
+         x="96.34"
+         y="375.98"
+         width="3.87"
          height="18.48"
-         style="opacity:0.2"
+         style="opacity:0.2;transform-origin:98.275px 385.22px;fill:#00ccff;fill-opacity:1"
          class="animable"
-         id="rect651" />
+         id="rect49" />
     </g>
     <g
-       id="ellanu5w53dtn">
+       id="ellanu5w53dtn"
+       style="fill:#00ccff;fill-opacity:1">
       <rect
          x="105.23"
-         y="375.98001"
-         width="3.8699999"
+         y="375.98"
+         width="3.87"
          height="18.48"
-         style="opacity:0.2"
+         style="opacity:0.2;transform-origin:107.165px 385.22px;fill:#00ccff;fill-opacity:1"
          class="animable"
-         id="rect654" />
+         id="rect52" />
     </g>
     <g
-       id="elyvl9wr3ekq">
+       id="elyvl9wr3ekq"
+       style="fill:#00ccff;fill-opacity:1">
       <rect
          x="114.11"
-         y="375.98001"
-         width="3.8699999"
+         y="375.98"
+         width="3.87"
          height="18.48"
-         style="opacity:0.2"
+         style="opacity:0.2;transform-origin:116.045px 385.22px;fill:#00ccff;fill-opacity:1"
          class="animable"
-         id="rect657" />
+         id="rect55" />
     </g>
     <g
-       id="eltfce0sjl9n">
+       id="eltfce0sjl9n"
+       style="fill:#00ccff;fill-opacity:1">
       <rect
          x="122.99"
-         y="375.98001"
-         width="3.8699999"
+         y="375.98"
+         width="3.87"
          height="18.48"
-         style="opacity:0.2"
+         style="opacity:0.2;transform-origin:124.925px 385.22px;fill:#00ccff;fill-opacity:1"
          class="animable"
-         id="rect660" />
+         id="rect58" />
     </g>
     <g
-       id="elwul0ytr3vhk">
+       id="elwul0ytr3vhk"
+       style="fill:#00ccff;fill-opacity:1">
       <rect
          x="131.88"
-         y="375.98001"
-         width="3.8699999"
+         y="375.98"
+         width="3.87"
          height="18.48"
-         style="opacity:0.2"
+         style="opacity:0.2;transform-origin:133.815px 385.22px;fill:#00ccff;fill-opacity:1"
          class="animable"
-         id="rect663" />
+         id="rect61" />
     </g>
     <g
-       id="ele4td0szfg2l">
+       id="ele4td0szfg2l"
+       style="fill:#00ccff;fill-opacity:1">
       <rect
-         x="140.75999"
-         y="375.98001"
-         width="3.8699999"
+         x="140.76"
+         y="375.98"
+         width="3.87"
          height="18.48"
-         style="opacity:0.2"
+         style="opacity:0.2;transform-origin:142.695px 385.22px;fill:#00ccff;fill-opacity:1"
          class="animable"
-         id="rect666" />
+         id="rect64" />
     </g>
     <g
-       id="elugetx8nsm3c">
+       id="elugetx8nsm3c"
+       style="fill:#00ccff;fill-opacity:1">
       <rect
          x="149.64"
-         y="375.98001"
-         width="3.8699999"
+         y="375.98"
+         width="3.87"
          height="18.48"
-         style="opacity:0.2"
+         style="opacity:0.2;transform-origin:151.575px 385.22px;fill:#00ccff;fill-opacity:1"
          class="animable"
-         id="rect669" />
+         id="rect67" />
     </g>
     <g
-       id="elov4b8cmlyu">
+       id="elov4b8cmlyu"
+       style="fill:#00ccff;fill-opacity:1">
       <rect
          x="158.53"
-         y="375.98001"
-         width="3.8699999"
+         y="375.98"
+         width="3.87"
          height="18.48"
-         style="opacity:0.2"
+         style="opacity:0.2;transform-origin:160.465px 385.22px;fill:#00ccff;fill-opacity:1"
          class="animable"
-         id="rect672" />
+         id="rect70" />
     </g>
     <g
-       id="el1cfua68s0kw">
+       id="el1cfua68s0kw"
+       style="fill:#00ccff;fill-opacity:1">
       <rect
          x="167.41"
-         y="375.98001"
-         width="3.8699999"
+         y="375.98"
+         width="3.87"
          height="18.48"
-         style="opacity:0.2"
+         style="opacity:0.2;transform-origin:169.345px 385.22px;fill:#00ccff;fill-opacity:1"
          class="animable"
-         id="rect675" />
+         id="rect73" />
     </g>
     <g
-       id="elm7daw14cyqi">
+       id="elm7daw14cyqi"
+       style="fill:#00ccff;fill-opacity:1">
       <rect
-         x="176.28999"
-         y="375.98001"
-         width="3.8699999"
+         x="176.29"
+         y="375.98"
+         width="3.87"
          height="18.48"
-         style="opacity:0.2"
+         style="opacity:0.2;transform-origin:178.225px 385.22px;fill:#00ccff;fill-opacity:1"
          class="animable"
-         id="rect678" />
+         id="rect76" />
     </g>
     <rect
-       x="86.330002"
+       x="86.33"
        y="357.5"
-       width="98.190002"
+       width="98.19"
        height="18.48"
-       style="fill:#27ae60"
+       style="fill:#00ccff;transform-origin:135.425px 366.74px;fill-opacity:1"
        id="el7dx5121bscg"
        class="animable" />
     <g
-       id="ellcldbo0xlea">
+       id="ellcldbo0xlea"
+       style="fill:#00ccff;fill-opacity:1">
       <rect
-         x="86.330002"
+         x="86.33"
          y="357.5"
-         width="98.190002"
-         height="2.0999999"
-         style="opacity:0.2"
+         width="98.19"
+         height="2.1"
+         style="opacity:0.2;transform-origin:135.425px 358.55px;fill:#00ccff;fill-opacity:1"
          class="animable"
-         id="rect682" />
+         id="rect80" />
     </g>
     <g
-       id="el66mbpt72wfe">
+       id="el66mbpt72wfe"
+       style="fill:#00ccff;fill-opacity:1">
       <rect
-         x="93.519997"
+         x="93.52"
          y="357.5"
-         width="3.8699999"
+         width="3.87"
          height="18.48"
-         style="opacity:0.2"
+         style="opacity:0.2;transform-origin:95.455px 366.74px;fill:#00ccff;fill-opacity:1"
          class="animable"
-         id="rect685" />
+         id="rect83" />
     </g>
     <g
-       id="elno5xndumed8">
+       id="elno5xndumed8"
+       style="fill:#00ccff;fill-opacity:1">
       <rect
          x="102.4"
          y="357.5"
-         width="3.8699999"
+         width="3.87"
          height="18.48"
-         style="opacity:0.2"
+         style="opacity:0.2;transform-origin:104.335px 366.74px;fill:#00ccff;fill-opacity:1"
          class="animable"
-         id="rect688" />
+         id="rect86" />
     </g>
     <g
-       id="el7ywj4d7ascf">
+       id="el7ywj4d7ascf"
+       style="fill:#00ccff;fill-opacity:1">
       <rect
          x="111.29"
          y="357.5"
-         width="3.8699999"
+         width="3.87"
          height="18.48"
-         style="opacity:0.2"
+         style="opacity:0.2;transform-origin:113.225px 366.74px;fill:#00ccff;fill-opacity:1"
          class="animable"
-         id="rect691" />
+         id="rect89" />
     </g>
     <g
-       id="el80yoio8p63d">
+       id="el80yoio8p63d"
+       style="fill:#00ccff;fill-opacity:1">
       <rect
          x="120.17"
          y="357.5"
-         width="3.8699999"
+         width="3.87"
          height="18.48"
-         style="opacity:0.2"
+         style="opacity:0.2;transform-origin:122.105px 366.74px;fill:#00ccff;fill-opacity:1"
          class="animable"
-         id="rect694" />
+         id="rect92" />
     </g>
     <g
-       id="el8w1no3awe64">
+       id="el8w1no3awe64"
+       style="fill:#00ccff;fill-opacity:1">
       <rect
          x="129.05"
          y="357.5"
-         width="3.8699999"
+         width="3.87"
          height="18.48"
-         style="opacity:0.2"
+         style="opacity:0.2;transform-origin:130.985px 366.74px;fill:#00ccff;fill-opacity:1"
          class="animable"
-         id="rect697" />
+         id="rect95" />
     </g>
     <g
-       id="elehdedoqh15q">
+       id="elehdedoqh15q"
+       style="fill:#00ccff;fill-opacity:1">
       <rect
          x="137.94"
          y="357.5"
-         width="3.8699999"
+         width="3.87"
          height="18.48"
-         style="opacity:0.2"
+         style="opacity:0.2;transform-origin:139.875px 366.74px;fill:#00ccff;fill-opacity:1"
          class="animable"
-         id="rect700" />
+         id="rect98" />
     </g>
     <g
-       id="el8g4jine91o6">
+       id="el8g4jine91o6"
+       style="fill:#00ccff;fill-opacity:1">
       <rect
-         x="146.82001"
+         x="146.82"
          y="357.5"
-         width="3.8699999"
+         width="3.87"
          height="18.48"
-         style="opacity:0.2"
+         style="opacity:0.2;transform-origin:148.755px 366.74px;fill:#00ccff;fill-opacity:1"
          class="animable"
-         id="rect703" />
+         id="rect101" />
     </g>
     <g
-       id="eli58kgzfvtn">
+       id="eli58kgzfvtn"
+       style="fill:#00ccff;fill-opacity:1">
       <rect
          x="155.7"
          y="357.5"
-         width="3.8699999"
+         width="3.87"
          height="18.48"
-         style="opacity:0.2"
+         style="opacity:0.2;transform-origin:157.635px 366.74px;fill:#00ccff;fill-opacity:1"
          class="animable"
-         id="rect706" />
+         id="rect104" />
     </g>
     <g
-       id="el1d4n5k2vls2">
+       id="el1d4n5k2vls2"
+       style="fill:#00ccff;fill-opacity:1">
       <rect
          x="164.59"
          y="357.5"
-         width="3.8699999"
+         width="3.87"
          height="18.48"
-         style="opacity:0.2"
+         style="opacity:0.2;transform-origin:166.525px 366.74px;fill:#00ccff;fill-opacity:1"
          class="animable"
-         id="rect709" />
+         id="rect107" />
     </g>
     <g
-       id="elzmbxb8jt4pc">
+       id="elzmbxb8jt4pc"
+       style="fill:#00ccff;fill-opacity:1">
       <rect
          x="173.47"
          y="357.5"
-         width="3.8699999"
+         width="3.87"
          height="18.48"
-         style="opacity:0.2"
+         style="opacity:0.2;transform-origin:175.405px 366.74px;fill:#00ccff;fill-opacity:1"
          class="animable"
-         id="rect712" />
+         id="rect110" />
     </g>
     <rect
-       x="90.779999"
+       x="90.78"
        y="339.03"
-       width="98.190002"
+       width="98.19"
        height="18.48"
-       style="fill:#27ae60"
+       style="fill:#00ccff;transform-origin:139.875px 348.27px;fill-opacity:1"
        id="el798z8byajjc"
        class="animable" />
     <g
-       id="el2qk4u8py6kn">
+       id="el2qk4u8py6kn"
+       style="fill:#00ccff;fill-opacity:1">
       <rect
-         x="90.779999"
+         x="90.78"
          y="339.03"
-         width="98.190002"
-         height="2.0999999"
-         style="opacity:0.2"
+         width="98.19"
+         height="2.1"
+         style="opacity:0.2;transform-origin:139.875px 340.08px;fill:#00ccff;fill-opacity:1"
          class="animable"
-         id="rect716" />
+         id="rect114" />
     </g>
     <g
-       id="elz6w0f2vr5w">
+       id="elz6w0f2vr5w"
+       style="fill:#00ccff;fill-opacity:1">
       <rect
-         x="97.959999"
+         x="97.96"
          y="339.03"
-         width="3.8699999"
+         width="3.87"
          height="18.48"
-         style="opacity:0.2"
+         style="opacity:0.2;transform-origin:99.895px 348.27px;fill:#00ccff;fill-opacity:1"
          class="animable"
-         id="rect719" />
+         id="rect117" />
     </g>
     <g
-       id="elubcdp3xes1h">
+       id="elubcdp3xes1h"
+       style="fill:#00ccff;fill-opacity:1">
       <rect
          x="106.85"
          y="339.03"
-         width="3.8699999"
+         width="3.87"
          height="18.48"
-         style="opacity:0.2"
+         style="opacity:0.2;transform-origin:108.785px 348.27px;fill:#00ccff;fill-opacity:1"
          class="animable"
-         id="rect722" />
+         id="rect120" />
     </g>
     <g
-       id="elv1hn1zjyky">
+       id="elv1hn1zjyky"
+       style="fill:#00ccff;fill-opacity:1">
       <rect
          x="115.73"
          y="339.03"
-         width="3.8699999"
+         width="3.87"
          height="18.48"
-         style="opacity:0.2"
+         style="opacity:0.2;transform-origin:117.665px 348.27px;fill:#00ccff;fill-opacity:1"
          class="animable"
-         id="rect725" />
+         id="rect123" />
     </g>
     <g
-       id="el2rbo05c0s7g">
+       id="el2rbo05c0s7g"
+       style="fill:#00ccff;fill-opacity:1">
       <rect
          x="124.61"
          y="339.03"
-         width="3.8699999"
+         width="3.87"
          height="18.48"
-         style="opacity:0.2"
+         style="opacity:0.2;transform-origin:126.545px 348.27px;fill:#00ccff;fill-opacity:1"
          class="animable"
-         id="rect728" />
+         id="rect126" />
     </g>
     <g
-       id="elivsy59o8bu8">
+       id="elivsy59o8bu8"
+       style="fill:#00ccff;fill-opacity:1">
       <rect
          x="133.5"
          y="339.03"
-         width="3.8699999"
+         width="3.87"
          height="18.48"
-         style="opacity:0.2"
+         style="opacity:0.2;transform-origin:135.435px 348.27px;fill:#00ccff;fill-opacity:1"
          class="animable"
-         id="rect731" />
+         id="rect129" />
     </g>
     <g
-       id="elnqis4jskcs">
+       id="elnqis4jskcs"
+       style="fill:#00ccff;fill-opacity:1">
       <rect
          x="142.38"
          y="339.03"
-         width="3.8699999"
+         width="3.87"
          height="18.48"
-         style="opacity:0.2"
+         style="opacity:0.2;transform-origin:144.315px 348.27px;fill:#00ccff;fill-opacity:1"
          class="animable"
-         id="rect734" />
+         id="rect132" />
     </g>
     <g
-       id="el02ivxdfy1gv4">
+       id="el02ivxdfy1gv4"
+       style="fill:#00ccff;fill-opacity:1">
       <rect
-         x="151.25999"
+         x="151.26"
          y="339.03"
-         width="3.8699999"
+         width="3.87"
          height="18.48"
-         style="opacity:0.2"
+         style="opacity:0.2;transform-origin:153.195px 348.27px;fill:#00ccff;fill-opacity:1"
          class="animable"
-         id="rect737" />
+         id="rect135" />
     </g>
     <g
-       id="ele75aimweje">
+       id="ele75aimweje"
+       style="fill:#00ccff;fill-opacity:1">
       <rect
-         x="160.14999"
+         x="160.15"
          y="339.03"
-         width="3.8699999"
+         width="3.87"
          height="18.48"
-         style="opacity:0.2"
+         style="opacity:0.2;transform-origin:162.085px 348.27px;fill:#00ccff;fill-opacity:1"
          class="animable"
-         id="rect740" />
+         id="rect138" />
     </g>
     <g
-       id="elniixxzt75a">
+       id="elniixxzt75a"
+       style="fill:#00ccff;fill-opacity:1">
       <rect
          x="169.03"
          y="339.03"
-         width="3.8699999"
+         width="3.87"
          height="18.48"
-         style="opacity:0.2"
+         style="opacity:0.2;transform-origin:170.965px 348.27px;fill:#00ccff;fill-opacity:1"
          class="animable"
-         id="rect743" />
+         id="rect141" />
     </g>
     <g
-       id="els3xnkrzjzx">
+       id="els3xnkrzjzx"
+       style="fill:#00ccff;fill-opacity:1">
       <rect
          x="177.91"
          y="339.03"
-         width="3.8699999"
+         width="3.87"
          height="18.48"
-         style="opacity:0.2"
+         style="opacity:0.2;transform-origin:179.845px 348.27px;fill:#00ccff;fill-opacity:1"
          class="animable"
-         id="rect746" />
+         id="rect144" />
     </g>
     <g
-       id="el7tk4txhgls6">
+       id="el7tk4txhgls6"
+       style="fill:#00ccff;fill-opacity:1">
       <rect
-         x="86.459999"
-         y="320.54999"
-         width="98.190002"
+         x="86.46"
+         y="320.55"
+         width="98.19"
          height="18.48"
-         style="fill:#27ae60"
+         style="fill:#00ccff;transform-origin:135.555px 329.79px;transform:rotate(180deg);fill-opacity:1"
          class="animable"
-         id="rect749" />
+         id="rect147" />
     </g>
     <g
-       id="elnok0vhblra">
+       id="elnok0vhblra"
+       style="fill:#00ccff;fill-opacity:1">
       <rect
-         x="86.459999"
-         y="320.54999"
-         width="98.190002"
-         height="2.0999999"
-         style="opacity:0.2"
+         x="86.46"
+         y="320.55"
+         width="98.19"
+         height="2.1"
+         style="opacity:0.2;transform-origin:135.555px 321.6px;transform:rotate(180deg);fill:#00ccff;fill-opacity:1"
          class="animable"
-         id="rect752" />
+         id="rect150" />
     </g>
     <g
-       id="elb2llep1sjh5">
+       id="elb2llep1sjh5"
+       style="fill:#00ccff;fill-opacity:1">
       <rect
-         x="173.60001"
-         y="320.54999"
-         width="3.8699999"
+         x="173.6"
+         y="320.55"
+         width="3.87"
          height="18.48"
-         style="opacity:0.2"
+         style="opacity:0.2;transform-origin:175.535px 329.79px;transform:rotate(180deg);fill:#00ccff;fill-opacity:1"
          class="animable"
-         id="rect755" />
+         id="rect153" />
     </g>
     <g
-       id="eltk9fwj6wsjn">
+       id="eltk9fwj6wsjn"
+       style="fill:#00ccff;fill-opacity:1">
       <rect
          x="164.72"
-         y="320.54999"
-         width="3.8699999"
+         y="320.55"
+         width="3.87"
          height="18.48"
-         style="opacity:0.2"
+         style="opacity:0.2;transform-origin:166.655px 329.79px;transform:rotate(180deg);fill:#00ccff;fill-opacity:1"
          class="animable"
-         id="rect758" />
+         id="rect156" />
     </g>
     <g
-       id="ely21jmm62h4">
+       id="ely21jmm62h4"
+       style="fill:#00ccff;fill-opacity:1">
       <rect
          x="155.83"
-         y="320.54999"
-         width="3.8699999"
+         y="320.55"
+         width="3.87"
          height="18.48"
-         style="opacity:0.2"
+         style="opacity:0.2;transform-origin:157.765px 329.79px;transform:rotate(180deg);fill:#00ccff;fill-opacity:1"
          class="animable"
-         id="rect761" />
+         id="rect159" />
     </g>
     <g
-       id="el0aipsxrboq7">
+       id="el0aipsxrboq7"
+       style="fill:#00ccff;fill-opacity:1">
       <rect
          x="146.95"
-         y="320.54999"
-         width="3.8699999"
+         y="320.55"
+         width="3.87"
          height="18.48"
-         style="opacity:0.2"
+         style="opacity:0.2;transform-origin:148.885px 329.79px;transform:rotate(180deg);fill:#00ccff;fill-opacity:1"
          class="animable"
-         id="rect764" />
+         id="rect162" />
     </g>
     <g
-       id="el09zweh4old73">
+       id="el09zweh4old73"
+       style="fill:#00ccff;fill-opacity:1">
       <rect
-         x="138.07001"
-         y="320.54999"
-         width="3.8699999"
+         x="138.07"
+         y="320.55"
+         width="3.87"
          height="18.48"
-         style="opacity:0.2"
+         style="opacity:0.2;transform-origin:140.005px 329.79px;transform:rotate(180deg);fill:#00ccff;fill-opacity:1"
          class="animable"
-         id="rect767" />
+         id="rect165" />
     </g>
     <g
-       id="el8opncknbkbm">
+       id="el8opncknbkbm"
+       style="fill:#00ccff;fill-opacity:1">
       <rect
-         x="129.17999"
-         y="320.54999"
-         width="3.8699999"
+         x="129.18"
+         y="320.55"
+         width="3.87"
          height="18.48"
-         style="opacity:0.2"
+         style="opacity:0.2;transform-origin:131.115px 329.79px;transform:rotate(180deg);fill:#00ccff;fill-opacity:1"
          class="animable"
-         id="rect770" />
+         id="rect168" />
     </g>
     <g
-       id="elwjg6wuy8oa">
+       id="elwjg6wuy8oa"
+       style="fill:#00ccff;fill-opacity:1">
       <rect
          x="120.3"
-         y="320.54999"
-         width="3.8699999"
+         y="320.55"
+         width="3.87"
          height="18.48"
-         style="opacity:0.2"
+         style="opacity:0.2;transform-origin:122.235px 329.79px;transform:rotate(180deg);fill:#00ccff;fill-opacity:1"
          class="animable"
-         id="rect773" />
+         id="rect171" />
     </g>
     <g
-       id="elybnpu0ylt9s">
+       id="elybnpu0ylt9s"
+       style="fill:#00ccff;fill-opacity:1">
       <rect
          x="111.42"
-         y="320.54999"
-         width="3.8699999"
+         y="320.55"
+         width="3.87"
          height="18.48"
-         style="opacity:0.2"
+         style="opacity:0.2;transform-origin:113.355px 329.79px;transform:rotate(180deg);fill:#00ccff;fill-opacity:1"
          class="animable"
-         id="rect776" />
+         id="rect174" />
     </g>
     <g
-       id="elb47j2hvg3x">
+       id="elb47j2hvg3x"
+       style="fill:#00ccff;fill-opacity:1">
       <rect
          x="102.53"
-         y="320.54999"
-         width="3.8699999"
+         y="320.55"
+         width="3.87"
          height="18.48"
-         style="opacity:0.2"
+         style="opacity:0.2;transform-origin:104.465px 329.79px;transform:rotate(180deg);fill:#00ccff;fill-opacity:1"
          class="animable"
-         id="rect779" />
+         id="rect177" />
     </g>
     <g
-       id="elj0d8lufmytl">
+       id="elj0d8lufmytl"
+       style="fill:#00ccff;fill-opacity:1">
       <rect
-         x="93.650002"
-         y="320.54999"
-         width="3.8699999"
+         x="93.65"
+         y="320.55"
+         width="3.87"
          height="18.48"
-         style="opacity:0.2"
+         style="opacity:0.2;transform-origin:95.585px 329.79px;transform:rotate(180deg);fill:#00ccff;fill-opacity:1"
          class="animable"
-         id="rect782" />
+         id="rect180" />
     </g>
     <g
-       id="elzc4rjvmjt">
+       id="elzc4rjvmjt"
+       style="fill:#00ccff;fill-opacity:1">
       <rect
-         x="90.459999"
-         y="302.07001"
-         width="98.190002"
+         x="90.46"
+         y="302.07"
+         width="98.19"
          height="18.48"
-         style="fill:#27ae60"
+         style="fill:#00ccff;transform-origin:139.555px 311.31px;transform:rotate(180deg);fill-opacity:1"
          class="animable"
-         id="rect785" />
+         id="rect183" />
     </g>
     <g
-       id="elu7ul9v7n0ib">
+       id="elu7ul9v7n0ib"
+       style="fill:#00ccff;fill-opacity:1">
       <rect
-         x="90.459999"
-         y="302.07001"
-         width="98.190002"
-         height="2.0999999"
-         style="opacity:0.2"
+         x="90.46"
+         y="302.07"
+         width="98.19"
+         height="2.1"
+         style="opacity:0.2;transform-origin:139.555px 303.12px;transform:rotate(180deg);fill:#00ccff;fill-opacity:1"
          class="animable"
-         id="rect788" />
+         id="rect186" />
     </g>
     <g
-       id="el4qofhtum0mx">
+       id="el4qofhtum0mx"
+       style="fill:#00ccff;fill-opacity:1">
       <rect
-         x="177.60001"
-         y="302.07001"
-         width="3.8699999"
+         x="177.6"
+         y="302.07"
+         width="3.87"
          height="18.48"
-         style="opacity:0.2"
+         style="opacity:0.2;transform-origin:179.535px 311.31px;transform:rotate(180deg);fill:#00ccff;fill-opacity:1"
          class="animable"
-         id="rect791" />
+         id="rect189" />
     </g>
     <g
-       id="elvte8h1n45j8">
+       id="elvte8h1n45j8"
+       style="fill:#00ccff;fill-opacity:1">
       <rect
-         x="168.71001"
-         y="302.07001"
-         width="3.8699999"
+         x="168.71"
+         y="302.07"
+         width="3.87"
          height="18.48"
-         style="opacity:0.2"
+         style="opacity:0.2;transform-origin:170.645px 311.31px;transform:rotate(180deg);fill:#00ccff;fill-opacity:1"
          class="animable"
-         id="rect794" />
+         id="rect192" />
     </g>
     <g
-       id="elefo0qozzyop">
+       id="elefo0qozzyop"
+       style="fill:#00ccff;fill-opacity:1">
       <rect
          x="159.83"
-         y="302.07001"
-         width="3.8699999"
+         y="302.07"
+         width="3.87"
          height="18.48"
-         style="opacity:0.2"
+         style="opacity:0.2;transform-origin:161.765px 311.31px;transform:rotate(180deg);fill:#00ccff;fill-opacity:1"
          class="animable"
-         id="rect797" />
+         id="rect195" />
     </g>
     <g
-       id="elszm551p7of">
+       id="elszm551p7of"
+       style="fill:#00ccff;fill-opacity:1">
       <rect
          x="150.95"
-         y="302.07001"
-         width="3.8699999"
+         y="302.07"
+         width="3.87"
          height="18.48"
-         style="opacity:0.2"
+         style="opacity:0.2;transform-origin:152.885px 311.31px;transform:rotate(180deg);fill:#00ccff;fill-opacity:1"
          class="animable"
-         id="rect800" />
+         id="rect198" />
     </g>
     <g
-       id="elio9839guz0g">
+       id="elio9839guz0g"
+       style="fill:#00ccff;fill-opacity:1">
       <rect
          x="142.06"
-         y="302.07001"
-         width="3.8699999"
+         y="302.07"
+         width="3.87"
          height="18.48"
-         style="opacity:0.2"
+         style="opacity:0.2;transform-origin:143.995px 311.31px;transform:rotate(180deg);fill:#00ccff;fill-opacity:1"
          class="animable"
-         id="rect803" />
+         id="rect201" />
     </g>
     <g
-       id="elojymag8uonk">
+       id="elojymag8uonk"
+       style="fill:#00ccff;fill-opacity:1">
       <rect
-         x="133.17999"
-         y="302.07001"
-         width="3.8699999"
+         x="133.18"
+         y="302.07"
+         width="3.87"
          height="18.48"
-         style="opacity:0.2"
+         style="opacity:0.2;transform-origin:135.115px 311.31px;transform:rotate(180deg);fill:#00ccff;fill-opacity:1"
          class="animable"
-         id="rect806" />
+         id="rect204" />
     </g>
     <g
-       id="elztqmtcrr1kc">
+       id="elztqmtcrr1kc"
+       style="fill:#00ccff;fill-opacity:1">
       <rect
          x="124.3"
-         y="302.07001"
-         width="3.8699999"
+         y="302.07"
+         width="3.87"
          height="18.48"
-         style="opacity:0.2"
+         style="opacity:0.2;transform-origin:126.235px 311.31px;transform:rotate(180deg);fill:#00ccff;fill-opacity:1"
          class="animable"
-         id="rect809" />
+         id="rect207" />
     </g>
     <g
-       id="el4744y6mal6j">
+       id="el4744y6mal6j"
+       style="fill:#00ccff;fill-opacity:1">
       <rect
          x="115.41"
-         y="302.07001"
-         width="3.8699999"
+         y="302.07"
+         width="3.87"
          height="18.48"
-         style="opacity:0.2"
+         style="opacity:0.2;transform-origin:117.345px 311.31px;transform:rotate(180deg);fill:#00ccff;fill-opacity:1"
          class="animable"
-         id="rect812" />
+         id="rect210" />
     </g>
     <g
-       id="eld7u0hlgyw9">
+       id="eld7u0hlgyw9"
+       style="fill:#00ccff;fill-opacity:1">
       <rect
          x="106.53"
-         y="302.07001"
-         width="3.8699999"
+         y="302.07"
+         width="3.87"
          height="18.48"
-         style="opacity:0.2"
+         style="opacity:0.2;transform-origin:108.465px 311.31px;transform:rotate(180deg);fill:#00ccff;fill-opacity:1"
          class="animable"
-         id="rect815" />
+         id="rect213" />
     </g>
     <g
-       id="elriiid5myvng">
+       id="elriiid5myvng"
+       style="fill:#00ccff;fill-opacity:1">
       <rect
-         x="97.650002"
-         y="302.07001"
-         width="3.8699999"
+         x="97.65"
+         y="302.07"
+         width="3.87"
          height="18.48"
-         style="opacity:0.2"
+         style="opacity:0.2;transform-origin:99.585px 311.31px;transform:rotate(180deg);fill:#00ccff;fill-opacity:1"
          class="animable"
-         id="rect818" />
+         id="rect216" />
     </g>
     <g
-       id="el6tla4gw0ca9">
+       id="el6tla4gw0ca9"
+       style="fill:#00ccff;fill-opacity:1">
       <rect
-         x="93.279999"
+         x="93.28"
          y="283.59"
-         width="98.190002"
+         width="98.19"
          height="18.48"
-         style="fill:#27ae60"
+         style="fill:#00ccff;transform-origin:142.375px 292.83px;transform:rotate(180deg);fill-opacity:1"
          class="animable"
-         id="rect821" />
+         id="rect219" />
     </g>
     <g
-       id="elfdmirv5iaf4">
+       id="elfdmirv5iaf4"
+       style="fill:#00ccff;fill-opacity:1">
       <rect
-         x="93.279999"
+         x="93.28"
          y="283.59"
-         width="98.190002"
-         height="2.0999999"
-         style="opacity:0.2"
+         width="98.19"
+         height="2.1"
+         style="opacity:0.2;transform-origin:142.375px 284.64px;transform:rotate(180deg);fill:#00ccff;fill-opacity:1"
          class="animable"
-         id="rect824" />
+         id="rect222" />
     </g>
     <g
-       id="elb5nm4jubaf4">
+       id="elb5nm4jubaf4"
+       style="fill:#00ccff;fill-opacity:1">
       <rect
          x="180.42"
          y="283.59"
-         width="3.8699999"
+         width="3.87"
          height="18.48"
-         style="opacity:0.2"
+         style="opacity:0.2;transform-origin:182.355px 292.83px;transform:rotate(180deg);fill:#00ccff;fill-opacity:1"
          class="animable"
-         id="rect827" />
+         id="rect225" />
     </g>
     <g
-       id="elxuubzc0vnxm">
+       id="elxuubzc0vnxm"
+       style="fill:#00ccff;fill-opacity:1">
       <rect
-         x="171.53999"
+         x="171.54"
          y="283.59"
-         width="3.8699999"
+         width="3.87"
          height="18.48"
-         style="opacity:0.2"
+         style="opacity:0.2;transform-origin:173.475px 292.83px;transform:rotate(180deg);fill:#00ccff;fill-opacity:1"
          class="animable"
-         id="rect830" />
+         id="rect228" />
     </g>
     <g
-       id="el602yrqd0qin">
+       id="el602yrqd0qin"
+       style="fill:#00ccff;fill-opacity:1">
       <rect
-         x="162.64999"
+         x="162.65"
          y="283.59"
-         width="3.8699999"
+         width="3.87"
          height="18.48"
-         style="opacity:0.2"
+         style="opacity:0.2;transform-origin:164.585px 292.83px;transform:rotate(180deg);fill:#00ccff;fill-opacity:1"
          class="animable"
-         id="rect833" />
+         id="rect231" />
     </g>
     <g
-       id="elasnxfu4uhod">
+       id="elasnxfu4uhod"
+       style="fill:#00ccff;fill-opacity:1">
       <rect
          x="153.77"
          y="283.59"
-         width="3.8699999"
+         width="3.87"
          height="18.48"
-         style="opacity:0.2"
+         style="opacity:0.2;transform-origin:155.705px 292.83px;transform:rotate(180deg);fill:#00ccff;fill-opacity:1"
          class="animable"
-         id="rect836" />
+         id="rect234" />
     </g>
     <g
-       id="elgpg5yuqd3bm">
+       id="elgpg5yuqd3bm"
+       style="fill:#00ccff;fill-opacity:1">
       <rect
          x="144.89"
          y="283.59"
-         width="3.8699999"
+         width="3.87"
          height="18.48"
-         style="opacity:0.2"
+         style="opacity:0.2;transform-origin:146.825px 292.83px;transform:rotate(180deg);fill:#00ccff;fill-opacity:1"
          class="animable"
-         id="rect839" />
+         id="rect237" />
     </g>
     <g
-       id="el7pq3yvr2uod">
+       id="el7pq3yvr2uod"
+       style="fill:#00ccff;fill-opacity:1">
       <rect
          x="136"
          y="283.59"
-         width="3.8699999"
+         width="3.87"
          height="18.48"
-         style="opacity:0.2"
+         style="opacity:0.2;transform-origin:137.935px 292.83px;transform:rotate(180deg);fill:#00ccff;fill-opacity:1"
          class="animable"
-         id="rect842" />
+         id="rect240" />
     </g>
     <g
-       id="elxla7kwojuxm">
+       id="elxla7kwojuxm"
+       style="fill:#00ccff;fill-opacity:1">
       <rect
          x="127.12"
          y="283.59"
-         width="3.8699999"
+         width="3.87"
          height="18.48"
-         style="opacity:0.2"
+         style="opacity:0.2;transform-origin:129.055px 292.83px;transform:rotate(180deg);fill:#00ccff;fill-opacity:1"
          class="animable"
-         id="rect845" />
+         id="rect243" />
     </g>
     <g
-       id="elih8oo8rrlm">
+       id="elih8oo8rrlm"
+       style="fill:#00ccff;fill-opacity:1">
       <rect
          x="118.24"
          y="283.59"
-         width="3.8699999"
+         width="3.87"
          height="18.48"
-         style="opacity:0.2"
+         style="opacity:0.2;transform-origin:120.175px 292.83px;transform:rotate(180deg);fill:#00ccff;fill-opacity:1"
          class="animable"
-         id="rect848" />
+         id="rect246" />
     </g>
     <g
-       id="elyzprog3scel">
+       id="elyzprog3scel"
+       style="fill:#00ccff;fill-opacity:1">
       <rect
          x="109.35"
          y="283.59"
-         width="3.8699999"
+         width="3.87"
          height="18.48"
-         style="opacity:0.2"
+         style="opacity:0.2;transform-origin:111.285px 292.83px;transform:rotate(180deg);fill:#00ccff;fill-opacity:1"
          class="animable"
-         id="rect851" />
+         id="rect249" />
     </g>
     <g
-       id="el5d1oushy8a">
+       id="el5d1oushy8a"
+       style="fill:#00ccff;fill-opacity:1">
       <rect
          x="100.47"
          y="283.59"
-         width="3.8699999"
+         width="3.87"
          height="18.48"
-         style="opacity:0.2"
+         style="opacity:0.2;transform-origin:102.405px 292.83px;transform:rotate(180deg);fill:#00ccff;fill-opacity:1"
          class="animable"
-         id="rect854" />
+         id="rect252" />
     </g>
     <g
-       id="el8zk2xgnjtt">
+       id="el8zk2xgnjtt"
+       style="fill:#00ccff;fill-opacity:1">
       <rect
-         x="88.839996"
-         y="265.10999"
-         width="98.190002"
+         x="88.84"
+         y="265.11"
+         width="98.19"
          height="18.48"
-         style="fill:#27ae60"
+         style="fill:#00ccff;transform-origin:137.935px 274.35px;transform:rotate(180deg);fill-opacity:1"
          class="animable"
-         id="rect857" />
+         id="rect255" />
     </g>
     <g
-       id="el9q8ntuo75m">
+       id="el9q8ntuo75m"
+       style="fill:#00ccff;fill-opacity:1">
       <rect
-         x="88.839996"
-         y="265.10999"
-         width="98.190002"
-         height="2.0999999"
-         style="opacity:0.2"
+         x="88.84"
+         y="265.11"
+         width="98.19"
+         height="2.1"
+         style="opacity:0.2;transform-origin:137.935px 266.16px;transform:rotate(180deg);fill:#00ccff;fill-opacity:1"
          class="animable"
-         id="rect860" />
+         id="rect258" />
     </g>
     <g
-       id="elov384vx7h9">
+       id="elov384vx7h9"
+       style="fill:#00ccff;fill-opacity:1">
       <rect
          x="175.98"
-         y="265.10999"
-         width="3.8699999"
+         y="265.11"
+         width="3.87"
          height="18.48"
-         style="opacity:0.2"
+         style="opacity:0.2;transform-origin:177.915px 274.35px;transform:rotate(180deg);fill:#00ccff;fill-opacity:1"
          class="animable"
-         id="rect863" />
+         id="rect261" />
     </g>
     <g
-       id="elpsdohotutb8">
+       id="elpsdohotutb8"
+       style="fill:#00ccff;fill-opacity:1">
       <rect
          x="167.09"
-         y="265.10999"
-         width="3.8699999"
+         y="265.11"
+         width="3.87"
          height="18.48"
-         style="opacity:0.2"
+         style="opacity:0.2;transform-origin:169.025px 274.35px;transform:rotate(180deg);fill:#00ccff;fill-opacity:1"
          class="animable"
-         id="rect866" />
+         id="rect264" />
     </g>
     <g
-       id="elz031wfxhqd9">
+       id="elz031wfxhqd9"
+       style="fill:#00ccff;fill-opacity:1">
       <rect
-         x="158.21001"
-         y="265.10999"
-         width="3.8699999"
+         x="158.21"
+         y="265.11"
+         width="3.87"
          height="18.48"
-         style="opacity:0.2"
+         style="opacity:0.2;transform-origin:160.145px 274.35px;transform:rotate(180deg);fill:#00ccff;fill-opacity:1"
          class="animable"
-         id="rect869" />
+         id="rect267" />
     </g>
     <g
-       id="elnz490uxrl1i">
+       id="elnz490uxrl1i"
+       style="fill:#00ccff;fill-opacity:1">
       <rect
          x="149.33"
-         y="265.10999"
-         width="3.8699999"
+         y="265.11"
+         width="3.87"
          height="18.48"
-         style="opacity:0.2"
+         style="opacity:0.2;transform-origin:151.265px 274.35px;transform:rotate(180deg);fill:#00ccff;fill-opacity:1"
          class="animable"
-         id="rect872" />
+         id="rect270" />
     </g>
     <g
-       id="elo0tsc4gywi">
+       id="elo0tsc4gywi"
+       style="fill:#00ccff;fill-opacity:1">
       <rect
          x="140.44"
-         y="265.10999"
-         width="3.8699999"
+         y="265.11"
+         width="3.87"
          height="18.48"
-         style="opacity:0.2"
+         style="opacity:0.2;transform-origin:142.375px 274.35px;transform:rotate(180deg);fill:#00ccff;fill-opacity:1"
          class="animable"
-         id="rect875" />
+         id="rect273" />
     </g>
     <g
-       id="elcfs5ekvuu6">
+       id="elcfs5ekvuu6"
+       style="fill:#00ccff;fill-opacity:1">
       <rect
          x="131.56"
-         y="265.10999"
-         width="3.8699999"
+         y="265.11"
+         width="3.87"
          height="18.48"
-         style="opacity:0.2"
+         style="opacity:0.2;transform-origin:133.495px 274.35px;transform:rotate(180deg);fill:#00ccff;fill-opacity:1"
          class="animable"
-         id="rect878" />
+         id="rect276" />
     </g>
     <g
-       id="el28gq0jm13hfi">
+       id="el28gq0jm13hfi"
+       style="fill:#00ccff;fill-opacity:1">
       <rect
          x="122.68"
-         y="265.10999"
-         width="3.8699999"
+         y="265.11"
+         width="3.87"
          height="18.48"
-         style="opacity:0.2"
+         style="opacity:0.2;transform-origin:124.615px 274.35px;transform:rotate(180deg);fill:#00ccff;fill-opacity:1"
          class="animable"
-         id="rect881" />
+         id="rect279" />
     </g>
     <g
-       id="elb81wfn0l4ik">
+       id="elb81wfn0l4ik"
+       style="fill:#00ccff;fill-opacity:1">
       <rect
          x="113.79"
-         y="265.10999"
-         width="3.8699999"
+         y="265.11"
+         width="3.87"
          height="18.48"
-         style="opacity:0.2"
+         style="opacity:0.2;transform-origin:115.725px 274.35px;transform:rotate(180deg);fill:#00ccff;fill-opacity:1"
          class="animable"
-         id="rect884" />
+         id="rect282" />
     </g>
     <g
-       id="elu6thr2vq7eo">
+       id="elu6thr2vq7eo"
+       style="fill:#00ccff;fill-opacity:1">
       <rect
          x="104.91"
-         y="265.10999"
-         width="3.8699999"
+         y="265.11"
+         width="3.87"
          height="18.48"
-         style="opacity:0.2"
+         style="opacity:0.2;transform-origin:106.845px 274.35px;transform:rotate(180deg);fill:#00ccff;fill-opacity:1"
          class="animable"
-         id="rect887" />
+         id="rect285" />
     </g>
     <g
-       id="el63hlrt6cbm2">
+       id="el63hlrt6cbm2"
+       style="fill:#00ccff;fill-opacity:1">
       <rect
-         x="96.029999"
-         y="265.10999"
-         width="3.8699999"
+         x="96.03"
+         y="265.11"
+         width="3.87"
          height="18.48"
-         style="opacity:0.2"
+         style="opacity:0.2;transform-origin:97.965px 274.35px;transform:rotate(180deg);fill:#00ccff;fill-opacity:1"
          class="animable"
-         id="rect890" />
+         id="rect288" />
     </g>
   </g>
   <g
      id="freepik--Growth--inject-3"
      class="animable"
-     transform="translate(-97.665848,28.255532)">
+     style="transform-origin:263.95px 303.254px;fill:#0effff;fill-opacity:1">
     <path
-       d="m 400.66,192 -39.16,6.71 a 3.85,3.85 0 0 0 -1.57,6.95 l 7.22,5.11 -44.27,62.58 a 3.79,3.79 0 0 1 -5.29,0.9 l -65.07,-46 a 3.81,3.81 0 0 0 -5.3,0.91 l -131.17,185.4 h 47.14 l 93.23,-131.79 a 3.79,3.79 0 0 1 5.29,-0.9 l 65.07,46 a 3.8,3.8 0 0 0 5.3,-0.91 l 66.49,-94 7.23,5.11 a 3.86,3.86 0 0 0 6,-3.8 l -6.72,-39.16 A 3.85,3.85 0 0 0 400.66,192 Z"
-       style="fill:#27ae60"
+       d="M400.66,192l-39.16,6.71a3.85,3.85,0,0,0-1.57,6.95l7.22,5.11-44.27,62.58a3.79,3.79,0,0,1-5.29.9l-65.07-46a3.81,3.81,0,0,0-5.3.91L116.05,414.56h47.14l93.23-131.79a3.79,3.79,0,0,1,5.29-.9l65.07,46a3.8,3.8,0,0,0,5.3-.91l66.49-94,7.23,5.11a3.86,3.86,0,0,0,6-3.8l-6.72-39.16A3.85,3.85,0,0,0,400.66,192Z"
+       style="fill:#0effff;transform-origin:263.95px 303.254px;fill-opacity:1"
        id="elesa60o6yc0u"
        class="animable" />
     <g
-       id="eltuqe81z8o5">
+       id="eltuqe81z8o5"
+       style="fill:#0effff;fill-opacity:1">
       <path
-         d="m 400.66,192 -39.16,6.71 a 3.85,3.85 0 0 0 -1.57,6.95 l 7.22,5.11 -44.27,62.58 a 3.79,3.79 0 0 1 -5.29,0.9 l -65.07,-46 a 3.81,3.81 0 0 0 -5.3,0.91 l -131.17,185.4 h 47.14 l 93.23,-131.79 a 3.79,3.79 0 0 1 5.29,-0.9 l 65.07,46 a 3.8,3.8 0 0 0 5.3,-0.91 l 66.49,-94 7.23,5.11 a 3.86,3.86 0 0 0 6,-3.8 l -6.72,-39.16 A 3.85,3.85 0 0 0 400.66,192 Z"
-         style="opacity:0.2"
+         d="M400.66,192l-39.16,6.71a3.85,3.85,0,0,0-1.57,6.95l7.22,5.11-44.27,62.58a3.79,3.79,0,0,1-5.29.9l-65.07-46a3.81,3.81,0,0,0-5.3.91L116.05,414.56h47.14l93.23-131.79a3.79,3.79,0,0,1,5.29-.9l65.07,46a3.8,3.8,0,0,0,5.3-.91l66.49-94,7.23,5.11a3.86,3.86,0,0,0,6-3.8l-6.72-39.16A3.85,3.85,0,0,0,400.66,192Z"
+         style="opacity:0.2;transform-origin:263.95px 303.254px;fill:#0effff;fill-opacity:1"
          class="animable"
-         id="path895" />
+         id="path293" />
     </g>
     <g
-       id="eled0tpv3dy7l">
+       id="eled0tpv3dy7l"
+       style="fill:#0effff;fill-opacity:1">
       <path
-         d="m 160.24,409.11 h -33.18 a 0.26,0.26 0 0 1 -0.22,-0.14 0.25,0.25 0 0 1 0,-0.26 l 121.52,-171.8 a 4.05,4.05 0 0 1 5.65,-1 l 65.06,46 a 3.55,3.55 0 0 0 5,-0.85 l 50.71,-71.68 -8,-5.69 a 0.23,0.23 0 0 1 -0.1,-0.26 0.25,0.25 0 0 1 0.2,-0.19 l 33,-5.65 a 0.24,0.24 0 0 1 0.28,0.2 l 5.65,33 a 0.27,0.27 0 0 1 -0.11,0.26 0.26,0.26 0 0 1 -0.28,0 l -8,-5.69 -66.35,93.8 a 4.05,4.05 0 0 1 -5.64,1 l -65.07,-46 a 3.55,3.55 0 0 0 -4.95,0.85 L 160.45,409 a 0.26,0.26 0 0 1 -0.21,0.11 z m -32.7,-0.5 h 32.57 l 94.74,-133.93 a 4.06,4.06 0 0 1 5.65,-1 l 65.07,46 a 3.55,3.55 0 0 0 4.95,-0.85 l 66.49,-94 a 0.21,0.21 0 0 1 0.16,-0.1 0.22,0.22 0 0 1 0.19,0 l 7.75,5.48 -5.51,-32.01 -32.11,5.5 7.75,5.48 a 0.27,0.27 0 0 1 0.1,0.16 0.25,0.25 0 0 1 0,0.19 l -50.85,71.89 a 4,4 0 0 1 -2.62,1.65 4.07,4.07 0 0 1 -3,-0.68 l -65.06,-46 a 3.55,3.55 0 0 0 -5,0.85 z"
-         style="opacity:0.2;fill:#ffffff"
+         d="M160.24,409.11H127.06a.26.26,0,0,1-.22-.14.25.25,0,0,1,0-.26l121.52-171.8a4.05,4.05,0,0,1,5.65-1l65.06,46a3.55,3.55,0,0,0,5-.85l50.71-71.68-8-5.69a.23.23,0,0,1-.1-.26.25.25,0,0,1,.2-.19l33-5.65a.24.24,0,0,1,.28.2l5.65,33a.27.27,0,0,1-.11.26.26.26,0,0,1-.28,0l-8-5.69-66.35,93.8a4.05,4.05,0,0,1-5.64,1l-65.07-46a3.55,3.55,0,0,0-4.95.85L160.45,409A.26.26,0,0,1,160.24,409.11Zm-32.7-.5h32.57l94.74-133.93a4.06,4.06,0,0,1,5.65-1l65.07,46a3.55,3.55,0,0,0,4.95-.85l66.49-94a.21.21,0,0,1,.16-.1.22.22,0,0,1,.19,0l7.75,5.48L399.6,198.2l-32.11,5.5,7.75,5.48a.27.27,0,0,1,.1.16.25.25,0,0,1,0,.19l-50.85,71.89a4,4,0,0,1-2.62,1.65,4.07,4.07,0,0,1-3-.68l-65.06-46a3.55,3.55,0,0,0-5,.85Z"
+         style="fill:#0effff;opacity:0.2;transform-origin:266.308px 303.348px;fill-opacity:1"
          class="animable"
-         id="path898" />
+         id="path296" />
     </g>
   </g>
   <g
      id="freepik--Chart--inject-3"
      class="animable"
-     style="transform-origin: 367.88px 365.705px;">
+     style="transform-origin:367.88px 365.705px;fill:#00ffff">
     <rect
        x="343.94"
        y="351.79"
        width="4.11"
        height="61.15"
-       style="fill: rgb(38, 50, 56); transform-origin: 345.995px 382.365px;"
+       style="fill:#00ffff;transform-origin:345.995px 382.365px"
        id="el8m5h9q3nq53"
        class="animable" />
     <rect
@@ -1136,7 +1249,7 @@
        y="318.47"
        width="4.11"
        height="94.47"
-       style="fill: rgb(38, 50, 56); transform-origin: 381.955px 365.705px;"
+       style="fill:#00ffff;transform-origin:381.955px 365.705px"
        id="elf5j11w76bwu"
        class="animable" />
     <rect
@@ -1144,7 +1257,7 @@
        y="341.13"
        width="4.11"
        height="71.81"
-       style="fill: rgb(38, 50, 56); transform-origin: 418.575px 377.035px;"
+       style="fill:#00ffff;transform-origin:418.575px 377.035px"
        id="el3pjv2r346w7"
        class="animable" />
     <rect
@@ -1152,370 +1265,327 @@
        y="351.79"
        width="28.82"
        height="61.15"
-       style="fill: rgb(39, 174, 96); transform-origin: 329.54px 382.365px;"
+       style="fill:#00ffff;transform-origin:329.54px 382.365px"
        id="elmhkmk8ad0q8"
        class="animable" />
     <g
-       id="elffhy63m9wz8">
+       id="elffhy63m9wz8"
+       style="fill:#00ffff">
       <polygon
          points="315.13 351.79 315.13 388.05 329.53 351.79 315.13 351.79"
-         style="fill: rgb(255, 255, 255); opacity: 0.2; transform-origin: 322.33px 369.92px;"
+         style="fill:#00ffff;opacity:0.2;transform-origin:322.33px 369.92px"
          class="animable"
-         id="polygon906" />
+         id="polygon304" />
     </g>
     <rect
        x="351.08"
        y="318.47"
        width="28.82"
        height="94.47"
-       style="fill: rgb(39, 174, 96); transform-origin: 365.49px 365.705px;"
+       style="fill:#00ffff;transform-origin:365.49px 365.705px"
        id="el0yaw4r8jo5q"
        class="animable" />
     <g
-       id="elkz79hy4rcco">
+       id="elkz79hy4rcco"
+       style="fill:#00ffff">
       <polygon
          points="351.08 318.47 351.08 354.73 365.49 318.47 351.08 318.47"
-         style="fill: rgb(255, 255, 255); opacity: 0.2; transform-origin: 358.285px 336.6px;"
+         style="fill:#00ffff;opacity:0.2;transform-origin:358.285px 336.6px"
          class="animable"
-         id="polygon910" />
+         id="polygon308" />
     </g>
     <rect
        x="387.71"
        y="341.13"
        width="28.82"
        height="71.81"
-       style="fill: rgb(39, 174, 96); transform-origin: 402.12px 377.035px;"
+       style="fill:#00ffff;transform-origin:402.12px 377.035px"
        id="elvsoob3gaje"
        class="animable" />
     <g
-       id="el3dxsq7v79n3">
+       id="el3dxsq7v79n3"
+       style="fill:#00ffff">
       <polygon
          points="387.71 341.13 387.71 373.4 402.12 341.13 387.71 341.13"
-         style="fill: rgb(255, 255, 255); opacity: 0.2; transform-origin: 394.915px 357.265px;"
+         style="fill:#00ffff;opacity:0.2;transform-origin:394.915px 357.265px"
          class="animable"
-         id="polygon914" />
+         id="polygon312" />
     </g>
   </g>
   <g
      id="freepik--Character--inject-3"
      class="animable"
-     transform="translate(104.4226,12.285012)">
+     style="transform-origin: 252.542px 261.29px;">
     <polygon
-       points="241.66,388.2 249.39,389.66 248.08,407.94 240.35,406.49 "
-       style="fill:#7f3e3b"
+       points="248.08 407.94 240.35 406.49 241.66 388.2 249.39 389.66 248.08 407.94"
+       style="fill: rgb(127, 62, 59); transform-origin: 244.87px 398.07px;"
        id="el4a8lu11ft7q"
        class="animable" />
     <polygon
-       points="290.28,389.52 298.14,389.52 300.1,407.73 292.23,407.73 "
-       style="fill:#7f3e3b"
+       points="300.1 407.73 292.23 407.73 290.28 389.52 298.14 389.52 300.1 407.73"
+       style="fill: rgb(127, 62, 59); transform-origin: 295.19px 398.625px;"
        id="elvdrgkqmkoyp"
        class="animable" />
     <path
-       d="m 291.59,406.82 h 9.58 a 0.69,0.69 0 0 1 0.67,0.54 l 1.56,7 a 1.16,1.16 0 0 1 -1.15,1.4 c -3.09,-0.05 -5.34,-0.24 -9.22,-0.24 -2.39,0 -9.6,0.25 -12.9,0.25 -3.3,0 -3.73,-3.26 -2.38,-3.56 6.06,-1.32 10.62,-3.15 12.56,-4.89 a 1.9,1.9 0 0 1 1.28,-0.5 z"
-       style="fill:#263238"
+       d="M291.59,406.82h9.58a.69.69,0,0,1,.67.54l1.56,7a1.16,1.16,0,0,1-1.15,1.4c-3.09-.05-5.34-.24-9.22-.24-2.39,0-9.6.25-12.9.25s-3.73-3.26-2.38-3.56c6.06-1.32,10.62-3.15,12.56-4.89A1.9,1.9,0,0,1,291.59,406.82Z"
+       style="fill: rgb(38, 50, 56); transform-origin: 290.229px 411.295px;"
        id="elwpbay1za6qa"
        class="animable" />
     <path
-       d="m 240.51,404.79 8.47,1.46 a 0.69,0.69 0 0 1 0.57,0.64 l 0.34,7.15 a 1.15,1.15 0 0 1 -1.35,1.19 c -3,-0.58 -7.43,-1.52 -11.26,-2.18 -4.49,-0.77 -6.68,-1.33 -11.94,-2.24 -3.18,-0.55 -2.49,-4 -1.1,-4.09 6.29,-0.28 8.51,0.68 14.3,-1.65 a 3.63,3.63 0 0 1 1.97,-0.28 z"
-       style="fill:#263238"
+       d="M240.51,404.79l8.47,1.46a.69.69,0,0,1,.57.64l.34,7.15a1.15,1.15,0,0,1-1.35,1.19c-3-.58-7.43-1.52-11.26-2.18-4.49-.77-6.68-1.33-11.94-2.24-3.18-.55-2.49-4-1.1-4.09,6.29-.28,8.51.68,14.3-1.65A3.63,3.63,0,0,1,240.51,404.79Z"
+       style="fill: rgb(38, 50, 56); transform-origin: 236.482px 410.002px;"
        id="elhd62oq9wxol"
        class="animable" />
     <path
-       d="m 267.44,167.09 c -0.27,0.8 -0.48,1.38 -0.73,2 -0.25,0.62 -0.5,1.28 -0.76,1.91 -0.52,1.27 -1.07,2.51 -1.65,3.75 a 72.47,72.47 0 0 1 -3.89,7.25 47.81,47.81 0 0 1 -11.27,13.08 27.68,27.68 0 0 1 -4,2.54 c -0.36,0.2 -0.73,0.37 -1.11,0.54 -0.38,0.17 -0.72,0.33 -1.17,0.5 a 16.11,16.11 0 0 1 -2.73,0.74 28,28 0 0 1 -4.57,0.39 c -1.44,0 -2.82,0 -4.18,-0.13 a 80,80 0 0 1 -15.67,-2.84 l 0.79,-5.85 c 5,-0.19 10.07,-0.35 14.83,-0.77 1.19,-0.11 2.36,-0.25 3.47,-0.42 a 18.84,18.84 0 0 0 3,-0.66 4.4,4.4 0 0 0 0.92,-0.38 c 0.33,-0.2 0.78,-0.39 1.15,-0.65 a 18,18 0 0 0 2.31,-1.73 29.72,29.72 0 0 0 4.29,-4.72 52.82,52.82 0 0 0 3.74,-5.73 c 1.17,-2 2.22,-4.13 3.25,-6.27 0.5,-1.07 1,-2.16 1.44,-3.25 l 0.67,-1.63 0.61,-1.54 z"
-       style="fill:#7f3e3b"
+       d="M267.44,167.09c-.27.8-.48,1.38-.73,2s-.5,1.28-.76,1.91c-.52,1.27-1.07,2.51-1.65,3.75a72.47,72.47,0,0,1-3.89,7.25,47.81,47.81,0,0,1-11.27,13.08,27.68,27.68,0,0,1-4,2.54c-.36.2-.73.37-1.11.54s-.72.33-1.17.5a16.11,16.11,0,0,1-2.73.74,28,28,0,0,1-4.57.39c-1.44,0-2.82,0-4.18-.13a80,80,0,0,1-15.67-2.84l.79-5.85c5-.19,10.07-.35,14.83-.77,1.19-.11,2.36-.25,3.47-.42a18.84,18.84,0,0,0,3-.66,4.4,4.4,0,0,0,.92-.38c.33-.2.78-.39,1.15-.65a18,18,0,0,0,2.31-1.73,29.72,29.72,0,0,0,4.29-4.72,52.82,52.82,0,0,0,3.74-5.73c1.17-2,2.22-4.13,3.25-6.27.5-1.07,1-2.16,1.44-3.25l.67-1.63.61-1.54Z"
+       style="fill: rgb(127, 62, 59); transform-origin: 241.575px 181.505px;"
        id="el73g74hikoi3"
        class="animable" />
     <path
-       d="m 263.65,157.87 c 14.35,0 -1.42,31 -1.42,31 l -18.31,-7.41 c 0,0 5,-10.78 8.29,-16.95 a 12.19,12.19 0 0 1 11.44,-6.64 z"
-       style="fill:#27ae60"
+       d="M263.65,157.87c14.35,0-1.42,31-1.42,31l-18.31-7.41s5-10.78,8.29-16.95A12.19,12.19,0,0,1,263.65,157.87Z"
+       style="fill:#2ad4ff;transform-origin:256.8px 173.363px"
        id="elrjtxao4tqcj"
        class="animable" />
     <g
-       id="elph6jxaf7w9c">
-      <g
-         style="opacity:0.3"
-         class="animable"
-         id="g925">
-        <path
-           d="m 263.65,157.87 c 14.35,0 -1.42,31 -1.42,31 l -18.31,-7.41 c 0,0 5,-10.78 8.29,-16.95 a 12.19,12.19 0 0 1 11.44,-6.64 z"
-           style="fill:#ffffff"
-           id="elj7rudt6ocrp"
-           class="animable" />
-      </g>
-    </g>
-    <g
        id="el3vigrckpdq3">
       <path
-         d="m 260.14,167.89 c -5.25,3.69 -8.9,10.54 -9.94,16.1 l 10.46,4.24 c 1.9,-2.84 3.75,-6.19 5.79,-9.13 0.56,-1.53 1.11,-3.14 1.59,-4.77 z"
-         style="opacity:0.2"
+         d="M260.14,167.89c-5.25,3.69-8.9,10.54-9.94,16.1l10.46,4.24c1.9-2.84,3.75-6.19,5.79-9.13.56-1.53,1.11-3.14,1.59-4.77Z"
+         style="opacity: 0.2; transform-origin: 259.12px 178.06px;"
          class="animable"
-         id="path928" />
+         id="path326" />
     </g>
     <path
-       d="m 221,191.72 -6.29,-3.55 -4.82,9 a 21.92,21.92 0 0 0 8.39,-0.21 z"
-       style="fill:#7f3e3b"
+       d="M221,191.72l-6.29-3.55-4.82,9a21.92,21.92,0,0,0,8.39-.21Z"
+       style="fill: rgb(127, 62, 59); transform-origin: 215.445px 192.824px;"
        id="eljaet274eo"
        class="animable" />
     <polygon
-       points="209.85,197.2 214.67,188.17 208.69,188.17 205.19,196.11 "
-       style="fill:#7f3e3b"
+       points="208.69 188.17 205.19 196.11 209.85 197.2 214.67 188.17 208.69 188.17"
+       style="fill: rgb(127, 62, 59); transform-origin: 209.93px 192.685px;"
        id="el8kx8hys8hgl"
        class="animable" />
     <g
        id="elshap067nlr">
       <polygon
-         points="248.72,399.08 249.39,389.66 241.66,388.21 240.99,397.63 "
-         style="opacity:0.2"
+         points="241.66 388.21 240.99 397.63 248.72 399.08 249.39 389.66 241.66 388.21"
+         style="opacity: 0.2; transform-origin: 245.19px 393.645px;"
          class="animable"
-         id="polygon933" />
+         id="polygon331" />
     </g>
     <g
        id="elwb4edseewy">
       <polygon
-         points="291.29,398.92 299.15,398.92 298.14,389.53 290.27,389.53 "
-         style="opacity:0.2"
+         points="298.14 389.53 290.27 389.53 291.29 398.92 299.15 398.92 298.14 389.53"
+         style="opacity: 0.2; transform-origin: 294.71px 394.225px;"
          class="animable"
-         id="polygon936" />
+         id="polygon334" />
     </g>
     <path
-       d="m 302.78,161.3 a 177.3,177.3 0 0 0 -5,25.87 c -0.75,6.09 -1.19,11.9 -1.47,17.18 -0.66,12.36 -0.38,21.78 -0.75,25 -6.15,-0.42 -29.32,-2 -42,-2.92 -5.71,-44.73 5.2,-67.77 5.2,-67.77 a 82.06,82.06 0 0 1 10,-1.25 c 0.71,0 1.44,-0.07 2.17,-0.08 a 155.11,155.11 0 0 1 17.84,1.24 c 1.12,0.13 2.26,0.3 3.36,0.48 5.71,0.88 10.65,2.25 10.65,2.25 z"
-       style="fill:#27ae60"
+       d="M302.78,161.3a177.3,177.3,0,0,0-5,25.87c-.75,6.09-1.19,11.9-1.47,17.18-.66,12.36-.38,21.78-.75,25-6.15-.42-29.32-2-42-2.92-5.71-44.73,5.2-67.77,5.2-67.77a82.06,82.06,0,0,1,10-1.25c.71,0,1.44-.07,2.17-.08a155.11,155.11,0,0,1,17.84,1.24c1.12.13,2.26.3,3.36.48C297.84,159.93,302.78,161.3,302.78,161.3Z"
+       style="fill:#55ddff;transform-origin:277.343px 193.34px"
        id="elhvgm88m7895"
        class="animable" />
     <g
-       id="elh1v7a8e0mmp">
-      <g
-         style="opacity:0.3"
-         class="animable"
-         id="g941">
-        <path
-           d="m 302.78,161.3 a 177.3,177.3 0 0 0 -5,25.87 c -0.75,6.09 -1.19,11.9 -1.47,17.18 -0.66,12.36 -0.38,21.78 -0.75,25 -6.15,-0.42 -29.32,-2 -42,-2.92 -5.71,-44.73 5.2,-67.77 5.2,-67.77 a 82.06,82.06 0 0 1 10,-1.25 c 0.71,0 1.44,-0.07 2.17,-0.08 a 155.11,155.11 0 0 1 17.84,1.24 c 1.12,0.13 2.26,0.3 3.36,0.48 5.71,0.88 10.65,2.25 10.65,2.25 z"
-           style="fill:#ffffff"
-           id="elgjkb1kflxte"
-           class="animable" />
-      </g>
-    </g>
-    <g
        id="elscaoju0i1ar">
       <path
-         d="m 292.19,172.62 a 33,33 0 0 0 5.19,18.18 c 0.12,-1.2 0.26,-2.41 0.41,-3.63 0.56,-4.58 1.28,-9.32 2.23,-14.11 z"
-         style="opacity:0.2"
+         d="M292.19,172.62a33,33,0,0,0,5.19,18.18c.12-1.2.26-2.41.41-3.63.56-4.58,1.28-9.32,2.23-14.11Z"
+         style="opacity: 0.2; transform-origin: 296.104px 181.71px;"
          class="animable"
-         id="path944" />
+         id="path342" />
     </g>
     <path
-       d="m 288.49,138.33 c -1.52,5.67 -3.38,16.1 0.37,20.21 a 17.88,17.88 0 0 1 -14.14,4.51 c -4.93,-0.45 -4.93,-3.92 -3.7,-5.75 6.51,-1.08 6.67,-5.84 5.87,-10.38 z"
-       style="fill:#7f3e3b"
+       d="M288.49,138.33c-1.52,5.67-3.38,16.1.37,20.21a17.88,17.88,0,0,1-14.14,4.51c-4.93-.45-4.93-3.92-3.7-5.75,6.51-1.08,6.67-5.84,5.87-10.38Z"
+       style="fill: rgb(127, 62, 59); transform-origin: 279.598px 150.753px;"
        id="el2xmmxko6h69"
        class="animable" />
     <path
-       d="m 271.11,164.92 a 12.79,12.79 0 0 0 0.62,2.59 1.32,1.32 0 0 0 1.26,0.92 12.3,12.3 0 0 1 2.45,0.21 1.28,1.28 0 0 0 1,-0.18 c 1,-0.63 2.28,-1.56 1.95,-2.72 -0.39,-1.36 -2.73,-2.59 -2.73,-2.59 0,0 -4.02,0.99 -4.55,1.77 z"
-       style="fill:#263238"
+       d="M271.11,164.92a12.79,12.79,0,0,0,.62,2.59,1.32,1.32,0,0,0,1.26.92,12.3,12.3,0,0,1,2.45.21,1.28,1.28,0,0,0,1-.18c1-.63,2.28-1.56,1.95-2.72-.39-1.36-2.73-2.59-2.73-2.59S271.64,164.14,271.11,164.92Z"
+       style="fill: rgb(38, 50, 56); transform-origin: 274.776px 165.912px;"
        id="elwt8k37t3zh"
        class="animable" />
     <path
-       d="m 273.22,167.51 c -1.61,3.52 -5.33,26.06 -5.79,29.47 -0.46,3.41 1.11,8.91 3.29,13.28 a 21.44,21.44 0 0 0 4.1,-11.79 c 0.29,-4.66 0.57,-30.4 0.57,-30.4 z"
-       style="fill:#263238"
+       d="M273.22,167.51c-1.61,3.52-5.33,26.06-5.79,29.47s1.11,8.91,3.29,13.28a21.44,21.44,0,0,0,4.1-11.79c.29-4.66.57-30.4.57-30.4Z"
+       style="fill: rgb(38, 50, 56); transform-origin: 271.37px 188.885px;"
        id="ell5cmklq46d"
        class="animable" />
     <path
-       d="m 275.63,163.15 a 14.79,14.79 0 0 1 3.62,4.48 c 2.53,-0.2 13.7,-5.1 12.11,-8.88 -1.39,-0.39 -2.61,-1.19 -3,-0.78 -0.53,0.81 -5.27,3.67 -12.73,5.18 z"
-       style="fill:#ffffff"
+       d="M275.63,163.15a14.79,14.79,0,0,1,3.62,4.48c2.53-.2,13.7-5.1,12.11-8.88-1.39-.39-2.61-1.19-3-.78C287.83,158.78,283.09,161.64,275.63,163.15Z"
+       style="fill: rgb(255, 255, 255); transform-origin: 283.572px 162.743px;"
        id="elsli6eb8b03o"
        class="animable" />
     <path
-       d="m 275.63,163.15 c 0,0 -4.29,1.45 -5.29,3.89 -2.59,-1.15 -4,-6.34 -1.71,-9.75 1.43,-0.12 2.8,-0.83 3.06,-0.36 0.4,0.89 -0.69,3.28 3.94,6.22 z"
-       style="fill:#ffffff"
+       d="M275.63,163.15s-4.29,1.45-5.29,3.89c-2.59-1.15-4-6.34-1.71-9.75,1.43-.12,2.8-.83,3.06-.36C272.09,157.82,271,160.21,275.63,163.15Z"
+       style="fill: rgb(255, 255, 255); transform-origin: 271.554px 161.905px;"
        id="el5gweiej7zzg"
        class="animable" />
     <g
        id="elk3ascfh5ful">
       <path
-         d="m 283.76,141.84 -6.87,5.07 a 17.75,17.75 0 0 1 0.33,3.21 c 2.47,-0.18 6,-2.63 6.46,-5.17 a 8.5,8.5 0 0 0 0.08,-3.11 z"
-         style="opacity:0.2"
+         d="M283.76,141.84l-6.87,5.07a17.75,17.75,0,0,1,.33,3.21c2.47-.18,6-2.63,6.46-5.17A8.5,8.5,0,0,0,283.76,141.84Z"
+         style="opacity: 0.2; transform-origin: 280.378px 145.98px;"
          class="animable"
-         id="path952" />
+         id="path350" />
     </g>
     <path
-       d="m 271.83,120.12 c -3,1.18 -4.11,12.79 2,11.65 6.11,-1.14 4.04,-14.02 -2,-11.65 z"
-       style="fill:#263238"
+       d="M271.83,120.12c-3,1.18-4.11,12.79,2,11.65S277.87,117.75,271.83,120.12Z"
+       style="fill: rgb(38, 50, 56); transform-origin: 273.459px 125.839px;"
        id="elm4tikqfn8ms"
        class="animable" />
     <path
-       d="m 291.64,131.73 c -2.45,7.41 -3.5,11.87 -8.32,14.74 -7.26,4.31 -15.65,-1.59 -15.47,-9.58 0.16,-7.19 4.13,-18.11 12.3,-19.16 a 10.64,10.64 0 0 1 11.49,14 z"
-       style="fill:#7f3e3b"
+       d="M291.64,131.73c-2.45,7.41-3.5,11.87-8.32,14.74-7.26,4.31-15.65-1.59-15.47-9.58.16-7.19,4.13-18.11,12.3-19.16A10.64,10.64,0,0,1,291.64,131.73Z"
+       style="fill: rgb(127, 62, 59); transform-origin: 280.032px 132.778px;"
        id="eloat6oo2qnqi"
        class="animable" />
     <path
-       d="m 288.86,136.83 c -3.11,0.06 -5.66,-9.36 0.61,-12 -4.94,-0.57 -20.11,0.26 -22.83,-6.52 -2.72,-6.78 7.83,-7.83 11.42,-5.27 -1.14,-3.73 3.5,-9.23 11.84,-4.23 8.34,5 8.24,11.17 7.46,13 3.72,1 4.45,9.28 0.34,10.39 2.41,3.34 0.33,10.36 -6.17,8.86 -0.22,4.09 -4.78,2.3 -4.5,-0.84 0.28,-3.14 1.83,-3.39 1.83,-3.39 z"
-       style="fill:#263238"
+       d="M288.86,136.83c-3.11.06-5.66-9.36.61-12-4.94-.57-20.11.26-22.83-6.52s7.83-7.83,11.42-5.27c-1.14-3.73,3.5-9.23,11.84-4.23s8.24,11.17,7.46,13c3.72,1,4.45,9.28.34,10.39,2.41,3.34.33,10.36-6.17,8.86-.22,4.09-4.78,2.3-4.5-.84S288.86,136.83,288.86,136.83Z"
+       style="fill: rgb(38, 50, 56); transform-origin: 283.338px 125.124px;"
        id="elyjbtymvqw1"
        class="animable" />
     <path
-       d="m 275,138.64 v 0 a 5.75,5.75 0 0 0 5.17,-1 0.21,0.21 0 0 0 0,-0.29 0.2,0.2 0 0 0 -0.28,0 5.41,5.41 0 0 1 -4.8,1 0.19,0.19 0 0 0 -0.24,0.14 0.19,0.19 0 0 0 0.15,0.15 z"
-       style="fill:#263238"
+       d="M275,138.64h0a5.75,5.75,0,0,0,5.17-1,.21.21,0,0,0,0-.29.2.2,0,0,0-.28,0,5.41,5.41,0,0,1-4.8,1,.19.19,0,0,0-.24.14A.19.19,0,0,0,275,138.64Z"
+       style="fill: rgb(38, 50, 56); transform-origin: 277.539px 138.082px;"
        id="el7nhxl942fza"
        class="animable" />
     <path
-       d="m 293.19,139.59 a 7.45,7.45 0 0 1 -5.31,2 c -2.6,-0.11 -3.1,-2.63 -1.71,-4.66 1.26,-1.83 4.12,-4 6.4,-2.89 a 3.33,3.33 0 0 1 0.62,5.55 z"
-       style="fill:#7f3e3b"
+       d="M293.19,139.59a7.45,7.45,0,0,1-5.31,2c-2.6-.11-3.1-2.63-1.71-4.66,1.26-1.83,4.12-4,6.4-2.89A3.33,3.33,0,0,1,293.19,139.59Z"
+       style="fill: rgb(127, 62, 59); transform-origin: 289.91px 137.666px;"
        id="elh7blfbqevse"
        class="animable" />
     <path
-       d="m 238.38,394.58 13,3.07 c 0,0 4.6,-50.65 8.55,-78.48 1.05,-7.38 2.67,-17.76 5.14,-28.82 3.11,-13.93 7,-29 10.22,-40.8 3.37,-12.43 5.94,-21.22 5.94,-21.22 l -27.58,-1.93 c 0,0 -14.93,65.1 -16.51,89 -1.69,24.94 1.24,79.18 1.24,79.18 z"
-       style="fill:#263238"
+       d="M238.38,394.58l13,3.07s4.6-50.65,8.55-78.48c1.05-7.38,2.67-17.76,5.14-28.82,3.11-13.93,7-29,10.22-40.8,3.37-12.43,5.94-21.22,5.94-21.22l-27.58-1.93s-14.93,65.1-16.51,89C235.45,340.34,238.38,394.58,238.38,394.58Z"
+       style="fill: rgb(38, 50, 56); transform-origin: 258.922px 312.025px;"
        id="eln4cygrh8f1a"
        class="animable" />
     <g
        id="elfrleekttitl">
       <path
-         d="m 265,290.35 c 3.11,-13.93 7,-29 10.22,-40.8 l -2.87,-6.17 c -6.81,8.13 -8.65,33.3 -7.35,46.97 z"
-         style="opacity:0.2"
+         d="M265,290.35c3.11-13.93,7-29,10.22-40.8l-2.87-6.17C265.54,251.51,263.7,276.68,265,290.35Z"
+         style="opacity: 0.2; transform-origin: 269.916px 266.865px;"
          class="animable"
-         id="path961" />
+         id="path359" />
     </g>
     <path
-       d="m 268.49,227.44 c 0,0 3,67.32 6.3,90.12 3.63,25 12.86,79.54 12.86,79.54 h 14.41 c 0,0 -4,-51.87 -6.71,-76.32 -3.09,-27.85 0.21,-91.45 0.21,-91.45 z"
-       style="fill:#263238"
+       d="M268.49,227.44s3,67.32,6.3,90.12c3.63,25,12.86,79.54,12.86,79.54h14.41s-4-51.87-6.71-76.32c-3.09-27.85.21-91.45.21-91.45Z"
+       style="fill: rgb(38, 50, 56); transform-origin: 285.275px 312.27px;"
        id="elhtmv89v6g9u"
        class="animable" />
     <polygon
-       points="303.64,392.34 284.92,392.01 285.93,397.41 302.89,397.41 "
-       style="fill:#27ae60"
+       points="285.93 397.41 302.89 397.41 303.64 392.34 284.92 392.01 285.93 397.41"
+       style="fill:#87cdde;transform-origin:294.28px 394.71px"
        id="elogy719abv4n"
        class="animable" />
     <polygon
-       points="253.99,393.08 237.15,389.89 237.55,395.45 252.32,398.23 "
-       style="fill:#27ae60"
+       points="237.55 395.45 252.32 398.23 253.99 393.08 237.15 389.89 237.55 395.45"
+       style="fill:#87cdde;transform-origin:245.57px 394.06px"
        id="elq7jow57g0fe"
        class="animable" />
     <path
-       d="m 280.25,131.14 c -0.17,0.61 -0.62,1 -1,0.92 -0.38,-0.08 -0.6,-0.69 -0.44,-1.3 0.16,-0.61 0.62,-1 1,-0.92 0.38,0.08 0.6,0.69 0.44,1.3 z"
-       style="fill:#263238"
+       d="M280.25,131.14c-.17.61-.62,1-1,.92s-.6-.69-.44-1.3.62-1,1-.92S280.41,130.53,280.25,131.14Z"
+       style="fill: rgb(38, 50, 56); transform-origin: 279.53px 130.95px;"
        id="elwgk6ia303c"
        class="animable" />
     <path
-       d="m 273.31,129.32 c -0.16,0.61 -0.62,1 -1,0.91 -0.38,-0.09 -0.59,-0.68 -0.43,-1.3 0.16,-0.62 0.62,-1 1,-0.92 0.38,0.08 0.59,0.69 0.43,1.31 z"
-       style="fill:#263238"
+       d="M273.31,129.32c-.16.61-.62,1-1,.91s-.59-.68-.43-1.3.62-1,1-.92S273.47,128.7,273.31,129.32Z"
+       style="fill: rgb(38, 50, 56); transform-origin: 272.595px 129.121px;"
        id="elvqdh6snux3e"
        class="animable" />
     <path
-       d="m 274.85,129.89 a 23,23 0 0 1 -4.31,4.48 c 0.81,1.29 2.9,1.18 2.9,1.18 z"
-       style="fill:#630f0f"
+       d="M274.85,129.89a23,23,0,0,1-4.31,4.48c.81,1.29,2.9,1.18,2.9,1.18Z"
+       style="fill: rgb(99, 15, 15); transform-origin: 272.695px 132.721px;"
        id="ell13d6h519nj"
        class="animable" />
     <path
-       d="m 282.4,129.15 a 0.37,0.37 0 0 1 -0.32,-0.23 3,3 0 0 0 -2,-1.81 0.37165172,0.37165172 0 1 1 0.14,-0.73 3.7,3.7 0 0 1 2.54,2.26 0.37,0.37 0 0 1 -0.2,0.49 0.35,0.35 0 0 1 -0.16,0.02 z"
-       style="fill:#263238"
+       d="M282.4,129.15a.37.37,0,0,1-.32-.23,3,3,0,0,0-2-1.81.37.37,0,1,1,.14-.73,3.7,3.7,0,0,1,2.54,2.26.37.37,0,0,1-.2.49A.35.35,0,0,1,282.4,129.15Z"
+       style="fill: rgb(38, 50, 56); transform-origin: 281.284px 127.763px;"
        id="elozjf1bdxib9"
        class="animable" />
     <path
-       d="m 270.38,125.84 a 0.4,0.4 0 0 1 -0.21,-0.09 0.37,0.37 0 0 1 0,-0.53 3.7,3.7 0 0 1 3.12,-1.35 0.39,0.39 0 0 1 0.32,0.42 0.38,0.38 0 0 1 -0.42,0.32 v 0 a 3,3 0 0 0 -2.46,1.1 0.38,0.38 0 0 1 -0.35,0.13 z"
-       style="fill:#263238"
+       d="M270.38,125.84a.4.4,0,0,1-.21-.09.37.37,0,0,1,0-.53,3.7,3.7,0,0,1,3.12-1.35.39.39,0,0,1,.32.42.38.38,0,0,1-.42.32h0a3,3,0,0,0-2.46,1.1A.38.38,0,0,1,270.38,125.84Z"
+       style="fill: rgb(38, 50, 56); transform-origin: 271.835px 124.853px;"
        id="elzw2nfjqhztn"
        class="animable" />
     <path
-       d="m 289,408.2 a 2.4,2.4 0 0 1 -1.52,-0.4 1.12,1.12 0 0 1 -0.38,-1 0.56,0.56 0 0 1 0.32,-0.52 c 0.87,-0.45 3.4,1.11 3.69,1.29 a 0.17,0.17 0 0 1 0.08,0.18 0.18,0.18 0 0 1 -0.14,0.16 9.31,9.31 0 0 1 -2.05,0.29 z m -1.17,-1.63 a 0.43,0.43 0 0 0 -0.24,0.05 c -0.05,0 -0.11,0.07 -0.12,0.22 a 0.75,0.75 0 0 0 0.25,0.67 3.79,3.79 0 0 0 2.79,0.14 7.52,7.52 0 0 0 -2.69,-1.08 z"
-       style="fill:#27ae60"
+       d="M289,408.2a2.4,2.4,0,0,1-1.52-.4,1.12,1.12,0,0,1-.38-1,.56.56,0,0,1,.32-.52c.87-.45,3.4,1.11,3.69,1.29a.17.17,0,0,1,.08.18.18.18,0,0,1-.14.16A9.31,9.31,0,0,1,289,408.2Zm-1.17-1.63a.43.43,0,0,0-.24.05c-.05,0-.11.07-.12.22a.75.75,0,0,0,.25.67,3.79,3.79,0,0,0,2.79.14A7.52,7.52,0,0,0,287.82,406.57Z"
+       style="fill:#37abc8;transform-origin:289.142px 407.203px"
        id="elj2berkronn"
        class="animable" />
     <path
-       d="m 291,407.92 h -0.09 c -0.81,-0.44 -2.39,-2.17 -2.22,-3 a 0.61,0.61 0 0 1 0.59,-0.49 1,1 0 0 1 0.8,0.24 c 0.91,0.74 1.1,3 1.11,3.11 a 0.2,0.2 0 0 1 -0.09,0.17 0.17,0.17 0 0 1 -0.1,-0.03 z m -1.59,-3.19 h -0.08 c -0.24,0 -0.26,0.14 -0.27,0.19 -0.1,0.51 0.9,1.82 1.71,2.43 a 4.41,4.41 0 0 0 -0.93,-2.46 0.65,0.65 0 0 0 -0.43,-0.16 z"
-       style="fill:#27ae60"
+       d="M291,407.92l-.09,0c-.81-.44-2.39-2.17-2.22-3a.61.61,0,0,1,.59-.49,1,1,0,0,1,.8.24c.91.74,1.1,3,1.11,3.11a.2.2,0,0,1-.09.17A.17.17,0,0,1,291,407.92Zm-1.59-3.19h-.08c-.24,0-.26.14-.27.19-.1.51.9,1.82,1.71,2.43a4.41,4.41,0,0,0-.93-2.46A.65.65,0,0,0,289.41,404.73Z"
+       style="fill:#2c89a0;transform-origin:289.934px 406.185px"
        id="el4ks0j2n3lcl"
        class="animable" />
     <path
-       d="m 239.57,405.73 v 0 c -1.29,0 -3.56,-0.05 -4.28,-0.94 a 1.05,1.05 0 0 1 -0.19,-1 0.59,0.59 0 0 1 0.38,-0.43 c 1,-0.35 3.88,1.75 4.2,2 a 0.17,0.17 0 0 1 0.06,0.2 0.19,0.19 0 0 1 -0.17,0.17 z m -3.94,-2 v 0 a 0.22,0.22 0 0 0 -0.15,0.18 0.67,0.67 0 0 0 0.12,0.62 c 0.4,0.51 1.66,0.8 3.42,0.81 -1.19,-0.78 -2.79,-1.73 -3.39,-1.6 z"
-       style="fill:#27ae60"
+       d="M239.57,405.73h0c-1.29,0-3.56-.05-4.28-.94a1.05,1.05,0,0,1-.19-1,.59.59,0,0,1,.38-.43c1-.35,3.88,1.75,4.2,2a.17.17,0,0,1,.06.2A.19.19,0,0,1,239.57,405.73Zm-3.94-2h0a.22.22,0,0,0-.15.18.67.67,0,0,0,.12.62c.4.51,1.66.8,3.42.81C237.83,404.56,236.23,403.61,235.63,403.74Z"
+       style="fill:#5fbcd3;transform-origin:237.399px 404.525px"
        id="elpehocpd5gck"
        class="animable" />
     <path
-       d="m 239.57,405.73 a 0.19,0.19 0 0 1 -0.14,0 c -0.86,-0.58 -2.42,-2.58 -2.13,-3.43 0.07,-0.2 0.26,-0.43 0.77,-0.4 a 1.39,1.39 0 0 1 1,0.49 c 0.85,1 0.7,3.11 0.69,3.2 a 0.18,0.18 0 0 1 -0.1,0.15 z m -1.74,-3.47 c -0.14,0 -0.17,0.1 -0.18,0.13 -0.17,0.51 0.86,2.05 1.71,2.78 a 4.29,4.29 0 0 0 -0.61,-2.56 1,1 0 0 0 -0.7,-0.36 0.49,0.49 0 0 0 -0.22,0.01 z"
-       style="fill:#27ae60"
+       d="M239.57,405.73a.19.19,0,0,1-.14,0c-.86-.58-2.42-2.58-2.13-3.43.07-.2.26-.43.77-.4a1.39,1.39,0,0,1,1,.49c.85,1,.7,3.11.69,3.2a.18.18,0,0,1-.1.15Zm-1.74-3.47c-.14,0-.17.1-.18.13-.17.51.86,2.05,1.71,2.78a4.29,4.29,0,0,0-.61-2.56,1,1,0,0,0-.7-.36A.49.49,0,0,0,237.83,402.26Z"
+       style="fill:#5fbcd3;transform-origin:238.52px 403.82px"
        id="el250d37dezh"
        class="animable" />
     <path
-       d="m 267.11,196.42 -3.19,-2.28 -52.3,73.21 3.19,2.28 a 45,45 0 0 0 52.3,-73.21 z"
-       style="fill:#27ae60"
+       d="M267.11,196.42l-3.19-2.28-52.3,73.21,3.19,2.28a45,45,0,0,0,52.3-73.21Z"
+       style="fill:#aaeeff;transform-origin:248.335px 235.757px"
        id="eli3y8f6btvfb"
        class="animable" />
-    <g
-       id="ely0pevw75a4b">
-      <path
-         d="m 267.11,196.42 -3.19,-2.28 -52.3,73.21 3.19,2.28 a 45,45 0 0 0 52.3,-73.21 z"
-         style="opacity:0.1"
-         class="animable"
-         id="path977" />
-    </g>
     <path
-       d="M 189.65,236.47 A 48.34,48.34 0 0 1 191,218 l 1,0.26 a 47.18,47.18 0 0 0 -1.32,18.1 z"
-       style="fill:#27ae60"
+       d="M189.65,236.47A48.34,48.34,0,0,1,191,218l1,.26a47.18,47.18,0,0,0-1.32,18.1Z"
+       style="fill: rgb(39, 174, 96); transform-origin: 190.652px 227.235px;"
        id="elw94ak1u6pt"
        class="animable" />
     <path
-       d="m 192.68,248.54 a 48.54,48.54 0 0 1 -2.15,-7 l 1,-0.22 a 48.26,48.26 0 0 0 2.11,6.84 z"
-       style="fill:#27ae60"
+       d="M192.68,248.54a48.54,48.54,0,0,1-2.15-7l1-.22a48.26,48.26,0,0,0,2.11,6.84Z"
+       style="fill: rgb(39, 174, 96); transform-origin: 192.085px 244.93px;"
        id="el0evcydk5mlbt"
        class="animable" />
     <g
-       id="elxgupdj0uhjc">
+       id="elxgupdj0uhjc"
+       style="fill:#00ccff;fill-opacity:1">
       <circle
          cx="237.77"
          cy="230.75"
          r="44.98"
-         style="fill:#27ae60"
+         style="fill:#00ccff;transform-origin:237.77px 230.75px;transform:rotate(-11.64deg);fill-opacity:1"
          class="animable"
-         id="circle982" />
+         id="circle380" />
     </g>
     <path
-       d="m 227.15,242.12 7.06,-9.87 q -3.68,-4.62 -3.93,-8.84 a 12.36,12.36 0 0 1 2.49,-8 11.31,11.31 0 0 1 7.08,-4.75 12.12,12.12 0 0 1 8.66,1.61 l 1.7,-2.38 3.42,2.44 -1.71,2.38 a 12.43,12.43 0 0 1 4.14,6.82 12.18,12.18 0 0 1 -1.2,7.67 l -6.52,-3.48 a 5.93,5.93 0 0 0 -0.14,-5.8 l -6.58,9.22 q 4.56,5.58 4.87,9.48 a 11.55,11.55 0 0 1 -2.42,7.72 12.87,12.87 0 0 1 -7.72,5.35 14,14 0 0 1 -9.74,-1.54 l -1.7,2.38 -3.42,-2.44 1.62,-2.27 a 13.38,13.38 0 0 1 -4.45,-7.77 15.37,15.37 0 0 1 1.88,-9.52 l 6.63,3.74 a 9.61,9.61 0 0 0 -0.91,4.26 8,8 0 0 0 0.89,3.59 z m 17.68,-24.75 a 5.43,5.43 0 0 0 -3.36,0 5.09,5.09 0 0 0 -2.61,1.91 4.91,4.91 0 0 0 -0.9,2.86 6.39,6.39 0 0 0 1,3.37 z m -14.5,27.53 a 5.89,5.89 0 0 0 4,0.41 5.67,5.67 0 0 0 3.31,-2.28 5.15,5.15 0 0 0 1,-3.39 7.36,7.36 0 0 0 -1.8,-3.94 z"
-       style="fill:#ffffff"
+       d="M227.15,242.12l7.06-9.87q-3.68-4.62-3.93-8.84a12.36,12.36,0,0,1,2.49-8,11.31,11.31,0,0,1,7.08-4.75,12.12,12.12,0,0,1,8.66,1.61l1.7-2.38,3.42,2.44-1.71,2.38a12.43,12.43,0,0,1,4.14,6.82,12.18,12.18,0,0,1-1.2,7.67l-6.52-3.48a5.93,5.93,0,0,0-.14-5.8l-6.58,9.22q4.56,5.58,4.87,9.48a11.55,11.55,0,0,1-2.42,7.72,12.87,12.87,0,0,1-7.72,5.35,14,14,0,0,1-9.74-1.54l-1.7,2.38-3.42-2.44,1.62-2.27a13.38,13.38,0,0,1-4.45-7.77,15.37,15.37,0,0,1,1.88-9.52l6.63,3.74a9.61,9.61,0,0,0-.91,4.26A8,8,0,0,0,227.15,242.12Zm17.68-24.75a5.43,5.43,0,0,0-3.36,0,5.09,5.09,0,0,0-2.61,1.91,4.91,4.91,0,0,0-.9,2.86,6.39,6.39,0,0,0,1,3.37Zm-14.5,27.53a5.89,5.89,0,0,0,4,.41,5.67,5.67,0,0,0,3.31-2.28,5.15,5.15,0,0,0,1-3.39,7.36,7.36,0,0,0-1.8-3.94Z"
+       style="fill:#c3c300;transform-origin:237.386px 231.21px;fill-opacity:1"
        id="el4rmp1e6l0ox"
        class="animable" />
     <g
        id="el3qf5gcyyc8n">
       <path
-         d="m 274.21,227 a 36.64,36.64 0 0 0 -72.15,12 36.64,36.64 0 1 1 72.15,-12 z"
-         style="opacity:0.1"
+         d="M274.21,227a36.64,36.64,0,0,0-72.15,12,36.64,36.64,0,1,1,72.15-12Z"
+         style="opacity: 0.1; transform-origin: 237.668px 216.568px;"
          class="animable"
-         id="path986" />
+         id="path384" />
     </g>
     <path
-       d="m 303.79,165.6 c 1,1.27 1.83,2.41 2.67,3.65 0.84,1.24 1.66,2.43 2.46,3.67 1.59,2.48 3.1,5 4.5,7.63 1.4,2.63 2.7,5.32 3.88,8.1 l 0.86,2.11 0.78,2.17 c 0.26,0.71 0.48,1.47 0.71,2.21 l 0.33,1.12 0.09,0.28 0.15,0.61 a 9.41,9.41 0 0 1 0.2,1.26 10.63,10.63 0 0 1 -0.55,4.16 14.86,14.86 0 0 1 -1.35,2.88 26.33,26.33 0 0 1 -3.16,4.16 55.81,55.81 0 0 1 -6.85,6.17 100.53,100.53 0 0 1 -14.82,9.39 l -3.24,-4.94 c 4.19,-3.57 8.38,-7.33 12.17,-11.14 a 55.16,55.16 0 0 0 5.12,-5.84 16.06,16.06 0 0 0 1.72,-2.77 5.09,5.09 0 0 0 0.34,-1 c 0,-0.22 0,-0.26 0,0 a 0.55,0.55 0 0 0 0,0.22 0.66,0.66 0 0 0 0,0.09 l -0.09,-0.22 -0.35,-0.88 c -0.24,-0.6 -0.45,-1.19 -0.73,-1.78 l -0.8,-1.77 -0.85,-1.77 c -1.19,-2.35 -2.46,-4.69 -3.84,-7 -1.38,-2.31 -2.81,-4.61 -4.3,-6.87 -0.73,-1.14 -1.49,-2.27 -2.25,-3.38 l -2.28,-3.25 z"
-       style="fill:#7f3e3b"
+       d="M303.79,165.6c1,1.27,1.83,2.41,2.67,3.65s1.66,2.43,2.46,3.67c1.59,2.48,3.1,5,4.5,7.63s2.7,5.32,3.88,8.1l.86,2.11.78,2.17c.26.71.48,1.47.71,2.21l.33,1.12.09.28.15.61a9.41,9.41,0,0,1,.2,1.26,10.63,10.63,0,0,1-.55,4.16,14.86,14.86,0,0,1-1.35,2.88,26.33,26.33,0,0,1-3.16,4.16,55.81,55.81,0,0,1-6.85,6.17,100.53,100.53,0,0,1-14.82,9.39l-3.24-4.94c4.19-3.57,8.38-7.33,12.17-11.14a55.16,55.16,0,0,0,5.12-5.84,16.06,16.06,0,0,0,1.72-2.77,5.09,5.09,0,0,0,.34-1c0-.22,0-.26,0,0a.55.55,0,0,0,0,.22.66.66,0,0,0,0,.09l-.09-.22-.35-.88c-.24-.6-.45-1.19-.73-1.78l-.8-1.77-.85-1.77c-1.19-2.35-2.46-4.69-3.84-7s-2.81-4.61-4.3-6.87c-.73-1.14-1.49-2.27-2.25-3.38l-2.28-3.25Z"
+       style="fill: rgb(127, 62, 59); transform-origin: 305.447px 195.385px;"
        id="elk7jhlxhlsr"
        class="animable" />
     <path
-       d="m 302.78,161.3 c 7.37,1.49 13.84,19.51 13.84,19.51 l -15.38,12.53 c 0,0 -5,-9.16 -9.08,-18 -4.39,-9.63 1.69,-15.84 10.62,-14.04 z"
-       style="fill:#27ae60"
+       d="M302.78,161.3c7.37,1.49,13.84,19.51,13.84,19.51l-15.38,12.53s-5-9.16-9.08-18C287.77,165.71,293.85,159.5,302.78,161.3Z"
+       style="fill:#55ddff;transform-origin:303.66px 177.165px"
        id="el9qk7zl4z7u4"
        class="animable" />
-    <g
-       id="eloivpt778pyn">
-      <g
-         style="opacity:0.3"
-         class="animable"
-         id="g992">
-        <path
-           d="m 302.78,161.3 c 7.37,1.49 13.84,19.51 13.84,19.51 l -15.38,12.53 c 0,0 -5,-9.16 -9.08,-18 -4.39,-9.63 1.69,-15.84 10.62,-14.04 z"
-           style="fill:#ffffff"
-           id="elyse1d69u9s"
-           class="animable" />
-      </g>
-    </g>
     <path
-       d="m 292.27,219.54 -7.94,0.87 5.15,8.62 c 0,0 6.6,-2.24 5.8,-5.86 z"
-       style="fill:#7f3e3b"
+       d="M292.27,219.54l-7.94.87,5.15,8.62s6.6-2.24,5.8-5.86Z"
+       style="fill: rgb(127, 62, 59); transform-origin: 289.839px 224.285px;"
        id="elh5jh3swt7bc"
        class="animable" />
     <polygon
-       points="289.48,229.03 284.33,220.41 279.6,224.96 284.19,231.89 "
-       style="fill:#7f3e3b"
+       points="279.6 224.96 284.19 231.89 289.48 229.03 284.33 220.41 279.6 224.96"
+       style="fill: rgb(127, 62, 59); transform-origin: 284.54px 226.15px;"
        id="elem5kh712ntp"
        class="animable" />
   </g>
   <defs
-     id="defs1026">
+     id="defs424">
     <filter
        id="active"
        height="200%">
@@ -1524,26 +1594,26 @@
          result="DILATED"
          operator="dilate"
          radius="2"
-         id="feMorphology998" />
+         id="feMorphology396" />
       <feFlood
          flood-color="#32DFEC"
          flood-opacity="1"
          result="PINK"
-         id="feFlood1000" />
+         id="feFlood398" />
       <feComposite
          in="PINK"
          in2="DILATED"
          operator="in"
          result="OUTLINE"
-         id="feComposite1002" />
+         id="feComposite400" />
       <feMerge
-         id="feMerge1008">
+         id="feMerge406">
         <feMergeNode
            in="OUTLINE"
-           id="feMergeNode1004" />
+           id="feMergeNode402" />
         <feMergeNode
            in="SourceGraphic"
-           id="feMergeNode1006" />
+           id="feMergeNode404" />
       </feMerge>
     </filter>
     <filter
@@ -1554,31 +1624,31 @@
          result="DILATED"
          operator="dilate"
          radius="2"
-         id="feMorphology1011" />
+         id="feMorphology409" />
       <feFlood
          flood-color="#ff0000"
          flood-opacity="0.5"
          result="PINK"
-         id="feFlood1013" />
+         id="feFlood411" />
       <feComposite
          in="PINK"
          in2="DILATED"
          operator="in"
          result="OUTLINE"
-         id="feComposite1015" />
+         id="feComposite413" />
       <feMerge
-         id="feMerge1021">
+         id="feMerge419">
         <feMergeNode
            in="OUTLINE"
-           id="feMergeNode1017" />
+           id="feMergeNode415" />
         <feMergeNode
            in="SourceGraphic"
-           id="feMergeNode1019" />
+           id="feMergeNode417" />
       </feMerge>
       <feColorMatrix
          type="matrix"
          values="0   0   0   0   0                0   1   0   0   0                0   0   0   0   0                0   0   0   1   0 "
-         id="feColorMatrix1023" />
+         id="feColorMatrix421" />
     </filter>
   </defs>
 </svg>

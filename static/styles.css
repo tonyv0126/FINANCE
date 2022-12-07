@@ -71,3 +71,8 @@ table td {
     z-index: -10;
     right: 0;
 }
+
+body {
+    padding-top: 60px;
+}
+  

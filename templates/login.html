@@ -5,27 +5,31 @@
 {% endblock %}
 
 {% block main %}
-    
-    <form action="/login" method="post">
-        <div class="mb-3">
-            <input autocomplete="off" autofocus class="form-control mx-auto w-auto" id="username" name="username" placeholder="Username" type="text">
-        </div>
-        <div class="mb-3">
-            <input class="form-control mx-auto w-auto" id="password" name="password" placeholder="Password" type="password">
-        </div>
-        <button class="btn btn-primary" type="submit">Log In</button>
-    </form>
 
-    <div class="container">
-        <div class="row">
-          <div class="col-md-6 order-2 order-md-1 jumbotron text-start pt-sm-0 pt-md-5">
-            <h1 class="display-4">Investing Made Simple</h1>
-            <p class="lead">Demo application to buy and sell stocks, view your portfolio's performance over time, and view your transaction history. </p>
-            <a class="btn btn-info btn-lg text-white register " href="/register">Sign Up</a>
-          </div>
-          <div class="col-md-6 order-1 order-md-2 align-self-md-center">
-            <object type="image/svg+xml" data="/static/img/landing.svg" ></object>
-          </div>
-        </div>
+<div class="row">
+  <div class="col-md-6">
+    <img src="/static/img/animated-login.svg">
+  </div>
+
+  <div class=" col-md-6 mt-md-5">
+    <h1 class="display-3">Welcome Back!</h1>
+    <h1 class="display-3">Login to Your Account</h1>
+   
+    <form action="/login" method="post" class="mt-5 ms-1">
+      <div >
+          <input class="form-control-lg mb-2" id="username" name="username" placeholder="Username" type="text" autocomplete="off" style="width:auto;" required>
       </div>
+      <div>
+          <input class="form-control-lg mb-3" id="password" name="password" placeholder="Password" type="password" style="width:auto;" required>
+      </div>
+      <button class="btn btn-info btn-lg text-white" type="submit">Log In</button>
+    </form>
+    
+  
+
+  </div>
+</div>
+    
+   
+
 {% endblock %}

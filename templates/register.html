@@ -5,13 +5,23 @@ Register
 {% endblock %}
 
 {% block main %}
+<div class="container">
+    <div class="row">
+        <div class="col-md-6">
+            <img src="/static/img/finance.svg">
+        </div>
 
-<form action="/register" method="POST">
-    <input name="username" type="text" autofocus autocomplete="off" placeholder="username" style="margin-bottom: 0.5rem;"><br>
-    <input name="password" type="text" autofocus autocomplete="off" placeholder="password" style="margin-bottom: 0.5rem;"><br>
-    <input name="confirmation" type="text" autofocus autocomplete="off" placeholder="password again" style="margin-bottom: 0.5rem;"><br>
+        <div class="col-md-6 mt-md-5 ">
+            <h1 class="display-3 mt-2">Create your WealBuild account now. It's Free.</h1>
+            <form action="/register" method="POST" class="mt-md-5">
+                <input name="username" type="text" autofocus autocomplete="off" placeholder="Username" class="form-control form-control-lg mt-2" required style="width:auto;">
+                <input name="password" type="text" autofocus autocomplete="off" placeholder="Password" class="form-control form-control-lg mt-2" required style="width:auto;">
+                <input name="confirmation" type="text" autofocus autocomplete="off" placeholder="Password Again" class="form-control form-control-lg mt-2" required style="width:auto;">
+                <input type="submit" value="Sign Up" class="btn btn-outline-info mt-2">
+            </form>
+        </div>
+    </div>
+</div>
 
-    <input type="submit" value="Register">
-</form>
 
 {% endblock %}
